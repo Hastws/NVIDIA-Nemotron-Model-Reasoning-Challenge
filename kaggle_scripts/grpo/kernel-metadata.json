@@ -1,0 +1,28 @@
+{
+  "id": "hastws/nvidia-nemotron-grpotrainer-training",
+  "title": "NVIDIA Nemotron GRPOTrainer Training",
+  "code_file": "nvidia-nemotron-grpotrainer-training.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "mayukh18/nemotron-packages",
+    "dennisfong/nvidia-nemotron-offline-packages",
+    "rubyducklove/nvidia-cutlass",
+    "hastws/nemotron-v6-adapter",
+    "dgxchen/nemotron-cot-tong"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": [
+    "metric/nemotron-3-nano-30b-a3b-bf16/Transformers/default/1"
+  ],
+  "machine_shape": "NvidiaRtxPro6000",
+  "docker_image": "gcr.io/kaggle-private-byod/python@sha256:00377cd1b3d470a605bc5b0ceca79969e369644e9b36802242a1c70e627372f9"
+}

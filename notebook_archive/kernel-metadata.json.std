@@ -1,0 +1,26 @@
+{
+  "id": "hastws/nemotron-2-stage-sft-v2",
+  "title": "Nemotron 2-Stage SFT v2",
+  "code_file": "nvidia-nemotron-2stage-sft.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "hastws/prog-cot-training-data",
+    "hastws/sft-offline-packages"
+  ],
+  "kernel_sources": [
+    "ryanholbrook/nvidia-utility-script"
+  ],
+  "competition_sources": [
+    "nvidia-nemotron-model-reasoning-challenge"
+  ],
+  "model_sources": [
+    "metric/nemotron-3-nano-30b-a3b-bf16/Transformers/default/1"
+  ],
+  "machine_shape": "NvidiaRtxPro6000"
+}

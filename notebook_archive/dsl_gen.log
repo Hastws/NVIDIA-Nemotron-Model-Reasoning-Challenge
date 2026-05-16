@@ -1,0 +1,547 @@
+Total: 9500, Solvable: 8121, Unsolvable: 1379
+Resuming: 500 already done (with valid DSL)
+To process: 7621 rows × 4 gens = 30484 API calls
+Workers: 50
+Output: /Users/hastws/work_space/NVIDIA Nemotron 模型推理挑战赛/scripts/../data/train_dsl_rules.jsonl
+
+  [20/7621] ok=520 fail=0 rps=2.52 tok=744 avg_score=78.2 types={'unit_conv': 10, 'numeral': 9, 'gravity': 1}
+  [40/7621] ok=540 fail=0 rps=3.32 tok=3802 avg_score=79.3 types={'unit_conv': 11, 'numeral': 9, 'gravity': 7, 'bit_ops': 6, 'cipher': 7}
+  ** Checkpoint saved (550 rows)
+  [60/7621] ok=560 fail=0 rps=3.57 tok=6799 avg_score=79.8 types={'unit_conv': 15, 'numeral': 13, 'gravity': 10, 'bit_ops': 13, 'cipher': 7, 'symbol': 2}
+  [80/7621] ok=580 fail=0 rps=3.98 tok=9877 avg_score=79.6 types={'unit_conv': 18, 'numeral': 15, 'gravity': 14, 'bit_ops': 17, 'cipher': 13, 'symbol': 3}
+  [100/7621] ok=600 fail=0 rps=4.22 tok=12490 avg_score=79.4 types={'unit_conv': 21, 'numeral': 19, 'gravity': 17, 'bit_ops': 20, 'cipher': 20, 'symbol': 3}
+  ** Checkpoint saved (600 rows)
+  [120/7621] ok=620 fail=0 rps=4.48 tok=15307 avg_score=79.5 types={'unit_conv': 22, 'numeral': 21, 'gravity': 25, 'bit_ops': 24, 'cipher': 25, 'symbol': 3}
+  [140/7621] ok=640 fail=0 rps=4.50 tok=17954 avg_score=79.6 types={'unit_conv': 26, 'numeral': 25, 'gravity': 28, 'bit_ops': 29, 'cipher': 28, 'symbol': 4}
+  ** Checkpoint saved (650 rows)
+  [160/7621] ok=660 fail=0 rps=4.61 tok=20849 avg_score=79.6 types={'unit_conv': 31, 'numeral': 26, 'gravity': 33, 'bit_ops': 34, 'cipher': 32, 'symbol': 4}
+  [180/7621] ok=680 fail=0 rps=4.74 tok=24075 avg_score=79.6 types={'unit_conv': 34, 'numeral': 26, 'gravity': 38, 'bit_ops': 38, 'cipher': 39, 'symbol': 5}
+  [200/7621] ok=700 fail=0 rps=4.83 tok=26525 avg_score=79.5 types={'unit_conv': 38, 'numeral': 32, 'gravity': 41, 'bit_ops': 41, 'cipher': 43, 'symbol': 5}
+  ** Checkpoint saved (700 rows)
+  [220/7621] ok=720 fail=0 rps=4.90 tok=28579 avg_score=79.6 types={'unit_conv': 42, 'numeral': 35, 'gravity': 46, 'bit_ops': 44, 'cipher': 47, 'symbol': 6}
+  [240/7621] ok=740 fail=0 rps=4.82 tok=31060 avg_score=79.5 types={'unit_conv': 46, 'numeral': 38, 'gravity': 50, 'bit_ops': 46, 'cipher': 53, 'symbol': 7}
+  ** Checkpoint saved (750 rows)
+  [260/7621] ok=760 fail=0 rps=4.96 tok=32962 avg_score=79.4 types={'unit_conv': 53, 'numeral': 39, 'gravity': 56, 'bit_ops': 47, 'cipher': 57, 'symbol': 8}
+  [280/7621] ok=780 fail=0 rps=4.98 tok=35728 avg_score=79.4 types={'unit_conv': 58, 'numeral': 43, 'gravity': 57, 'bit_ops': 52, 'cipher': 61, 'symbol': 9}
+  [300/7621] ok=800 fail=0 rps=5.08 tok=38091 avg_score=79.4 types={'unit_conv': 63, 'numeral': 45, 'gravity': 61, 'bit_ops': 57, 'cipher': 64, 'symbol': 10}
+  ** Checkpoint saved (800 rows)
+  [320/7621] ok=820 fail=0 rps=5.06 tok=40072 avg_score=79.4 types={'unit_conv': 68, 'numeral': 51, 'gravity': 65, 'bit_ops': 59, 'cipher': 67, 'symbol': 10}
+  [340/7621] ok=840 fail=0 rps=5.15 tok=41943 avg_score=79.4 types={'unit_conv': 69, 'numeral': 61, 'gravity': 67, 'bit_ops': 61, 'cipher': 72, 'symbol': 10}
+  ** Checkpoint saved (850 rows)
+  [360/7621] ok=860 fail=0 rps=5.21 tok=44263 avg_score=79.4 types={'unit_conv': 75, 'numeral': 63, 'gravity': 71, 'bit_ops': 64, 'cipher': 77, 'symbol': 10}
+  [380/7621] ok=880 fail=0 rps=5.23 tok=46403 avg_score=79.4 types={'unit_conv': 81, 'numeral': 67, 'gravity': 76, 'bit_ops': 67, 'cipher': 79, 'symbol': 10}
+  [400/7621] ok=900 fail=0 rps=5.24 tok=48331 avg_score=79.3 types={'unit_conv': 86, 'numeral': 70, 'gravity': 82, 'bit_ops': 68, 'cipher': 84, 'symbol': 10}
+  ** Checkpoint saved (900 rows)
+  [420/7621] ok=920 fail=0 rps=5.28 tok=50502 avg_score=79.3 types={'unit_conv': 90, 'numeral': 74, 'gravity': 85, 'bit_ops': 72, 'cipher': 88, 'symbol': 11}
+  [440/7621] ok=940 fail=0 rps=5.26 tok=52947 avg_score=79.3 types={'unit_conv': 91, 'numeral': 78, 'gravity': 92, 'bit_ops': 73, 'cipher': 94, 'symbol': 12}
+  ** Checkpoint saved (950 rows)
+  [460/7621] ok=960 fail=0 rps=5.28 tok=56077 avg_score=79.4 types={'unit_conv': 93, 'numeral': 79, 'gravity': 98, 'bit_ops': 80, 'cipher': 96, 'symbol': 14}
+  [480/7621] ok=980 fail=0 rps=5.31 tok=58352 avg_score=79.4 types={'unit_conv': 97, 'numeral': 81, 'gravity': 103, 'bit_ops': 82, 'cipher': 101, 'symbol': 16}
+  [500/7621] ok=1000 fail=0 rps=5.32 tok=61582 avg_score=79.4 types={'unit_conv': 100, 'numeral': 85, 'gravity': 105, 'bit_ops': 89, 'cipher': 105, 'symbol': 16}
+  ** Checkpoint saved (1000 rows)
+  [520/7621] ok=1020 fail=0 rps=5.27 tok=63812 avg_score=79.4 types={'unit_conv': 103, 'numeral': 87, 'gravity': 112, 'bit_ops': 90, 'cipher': 111, 'symbol': 17}
+  [540/7621] ok=1040 fail=0 rps=5.29 tok=66354 avg_score=79.4 types={'unit_conv': 103, 'numeral': 94, 'gravity': 116, 'bit_ops': 94, 'cipher': 116, 'symbol': 17}
+  ** Checkpoint saved (1050 rows)
+  [560/7621] ok=1060 fail=0 rps=5.29 tok=69131 avg_score=79.4 types={'unit_conv': 105, 'numeral': 99, 'gravity': 118, 'bit_ops': 100, 'cipher': 120, 'symbol': 18}
+  [580/7621] ok=1080 fail=0 rps=5.31 tok=71554 avg_score=79.4 types={'unit_conv': 108, 'numeral': 105, 'gravity': 121, 'bit_ops': 104, 'cipher': 124, 'symbol': 18}
+  [600/7621] ok=1100 fail=0 rps=5.32 tok=73806 avg_score=79.4 types={'unit_conv': 112, 'numeral': 111, 'gravity': 125, 'bit_ops': 109, 'cipher': 124, 'symbol': 19}
+  ** Checkpoint saved (1100 rows)
+  [620/7621] ok=1120 fail=0 rps=5.33 tok=76264 avg_score=79.4 types={'unit_conv': 117, 'numeral': 115, 'gravity': 130, 'bit_ops': 112, 'cipher': 127, 'symbol': 19}
+  [640/7621] ok=1140 fail=0 rps=5.36 tok=78525 avg_score=79.4 types={'unit_conv': 119, 'numeral': 122, 'gravity': 134, 'bit_ops': 115, 'cipher': 131, 'symbol': 19}
+  ** Checkpoint saved (1150 rows)
+  [660/7621] ok=1160 fail=0 rps=5.35 tok=80281 avg_score=79.4 types={'unit_conv': 126, 'numeral': 126, 'gravity': 139, 'bit_ops': 117, 'cipher': 133, 'symbol': 19}
+  [680/7621] ok=1180 fail=0 rps=5.34 tok=82013 avg_score=79.4 types={'unit_conv': 130, 'numeral': 133, 'gravity': 142, 'bit_ops': 119, 'cipher': 136, 'symbol': 20}
+  [700/7621] ok=1200 fail=0 rps=5.38 tok=84785 avg_score=79.4 types={'unit_conv': 136, 'numeral': 137, 'gravity': 143, 'bit_ops': 123, 'cipher': 141, 'symbol': 20}
+  ** Checkpoint saved (1200 rows)
+  [720/7621] ok=1220 fail=0 rps=5.37 tok=87823 avg_score=79.4 types={'unit_conv': 138, 'numeral': 143, 'gravity': 144, 'bit_ops': 130, 'cipher': 145, 'symbol': 20}
+  [740/7621] ok=1240 fail=0 rps=5.36 tok=89975 avg_score=79.4 types={'unit_conv': 141, 'numeral': 149, 'gravity': 149, 'bit_ops': 132, 'cipher': 149, 'symbol': 20}
+  ** Checkpoint saved (1250 rows)
+  [760/7621] ok=1260 fail=0 rps=5.34 tok=92354 avg_score=79.4 types={'unit_conv': 144, 'numeral': 155, 'gravity': 151, 'bit_ops': 135, 'cipher': 154, 'symbol': 21}
+  [780/7621] ok=1280 fail=0 rps=5.38 tok=96349 avg_score=79.4 types={'unit_conv': 145, 'numeral': 161, 'gravity': 152, 'bit_ops': 145, 'cipher': 156, 'symbol': 21}
+  [800/7621] ok=1300 fail=0 rps=5.37 tok=98433 avg_score=79.4 types={'unit_conv': 149, 'numeral': 165, 'gravity': 158, 'bit_ops': 146, 'cipher': 161, 'symbol': 21}
+  ** Checkpoint saved (1300 rows)
+  [820/7621] ok=1320 fail=0 rps=5.34 tok=100113 avg_score=79.4 types={'unit_conv': 153, 'numeral': 171, 'gravity': 164, 'bit_ops': 147, 'cipher': 164, 'symbol': 21}
+  [840/7621] ok=1340 fail=0 rps=5.38 tok=103568 avg_score=79.4 types={'unit_conv': 156, 'numeral': 173, 'gravity': 167, 'bit_ops': 156, 'cipher': 167, 'symbol': 21}
+  ** Checkpoint saved (1350 rows)
+  [860/7621] ok=1360 fail=0 rps=5.37 tok=106143 avg_score=79.4 types={'unit_conv': 159, 'numeral': 176, 'gravity': 173, 'bit_ops': 159, 'cipher': 171, 'symbol': 22}
+  [880/7621] ok=1380 fail=0 rps=5.37 tok=107863 avg_score=79.4 types={'unit_conv': 164, 'numeral': 183, 'gravity': 176, 'bit_ops': 161, 'cipher': 174, 'symbol': 22}
+  [900/7621] ok=1400 fail=0 rps=5.41 tok=110893 avg_score=79.4 types={'unit_conv': 169, 'numeral': 185, 'gravity': 178, 'bit_ops': 168, 'cipher': 178, 'symbol': 22}
+  ** Checkpoint saved (1400 rows)
+  [920/7621] ok=1420 fail=0 rps=5.40 tok=113280 avg_score=79.4 types={'unit_conv': 173, 'numeral': 189, 'gravity': 181, 'bit_ops': 173, 'cipher': 181, 'symbol': 23}
+  [940/7621] ok=1440 fail=0 rps=5.43 tok=114921 avg_score=79.4 types={'unit_conv': 177, 'numeral': 193, 'gravity': 189, 'bit_ops': 173, 'cipher': 184, 'symbol': 24}
+  ** Checkpoint saved (1450 rows)
+  [960/7621] ok=1460 fail=0 rps=5.41 tok=117011 avg_score=79.4 types={'unit_conv': 181, 'numeral': 199, 'gravity': 193, 'bit_ops': 177, 'cipher': 186, 'symbol': 24}
+  [980/7621] ok=1480 fail=0 rps=5.45 tok=119053 avg_score=79.5 types={'unit_conv': 185, 'numeral': 204, 'gravity': 197, 'bit_ops': 181, 'cipher': 187, 'symbol': 26}
+  [1000/7621] ok=1500 fail=0 rps=5.42 tok=121338 avg_score=79.5 types={'unit_conv': 186, 'numeral': 211, 'gravity': 201, 'bit_ops': 184, 'cipher': 190, 'symbol': 28}
+  ** Checkpoint saved (1500 rows)
+  [1020/7621] ok=1520 fail=0 rps=5.42 tok=124018 avg_score=79.5 types={'unit_conv': 189, 'numeral': 215, 'gravity': 208, 'bit_ops': 188, 'cipher': 192, 'symbol': 28}
+  [1040/7621] ok=1540 fail=0 rps=5.42 tok=126288 avg_score=79.5 types={'unit_conv': 195, 'numeral': 219, 'gravity': 211, 'bit_ops': 194, 'cipher': 193, 'symbol': 28}
+  ** Checkpoint saved (1550 rows)
+  [1060/7621] ok=1560 fail=0 rps=5.44 tok=129390 avg_score=79.5 types={'unit_conv': 197, 'numeral': 222, 'gravity': 215, 'bit_ops': 200, 'cipher': 196, 'symbol': 30}
+  [1080/7621] ok=1580 fail=0 rps=5.43 tok=131625 avg_score=79.5 types={'unit_conv': 203, 'numeral': 227, 'gravity': 217, 'bit_ops': 205, 'cipher': 198, 'symbol': 30}
+  [1100/7621] ok=1600 fail=0 rps=5.44 tok=134252 avg_score=79.5 types={'unit_conv': 207, 'numeral': 229, 'gravity': 220, 'bit_ops': 208, 'cipher': 204, 'symbol': 32}
+  ** Checkpoint saved (1600 rows)
+  [1120/7621] ok=1620 fail=0 rps=5.45 tok=136836 avg_score=79.5 types={'unit_conv': 208, 'numeral': 235, 'gravity': 222, 'bit_ops': 212, 'cipher': 211, 'symbol': 32}
+  [1140/7621] ok=1640 fail=0 rps=5.43 tok=139073 avg_score=79.5 types={'unit_conv': 212, 'numeral': 241, 'gravity': 226, 'bit_ops': 215, 'cipher': 214, 'symbol': 32}
+  ** Checkpoint saved (1650 rows)
+  [1160/7621] ok=1660 fail=0 rps=5.42 tok=141125 avg_score=79.5 types={'unit_conv': 217, 'numeral': 246, 'gravity': 230, 'bit_ops': 218, 'cipher': 217, 'symbol': 32}
+  [1180/7621] ok=1680 fail=0 rps=5.40 tok=144083 avg_score=79.5 types={'unit_conv': 218, 'numeral': 247, 'gravity': 236, 'bit_ops': 223, 'cipher': 222, 'symbol': 34}
+  [1200/7621] ok=1700 fail=0 rps=5.42 tok=146458 avg_score=79.5 types={'unit_conv': 220, 'numeral': 250, 'gravity': 240, 'bit_ops': 227, 'cipher': 226, 'symbol': 37}
+  ** Checkpoint saved (1700 rows)
+  [1220/7621] ok=1720 fail=0 rps=5.41 tok=149185 avg_score=79.5 types={'unit_conv': 225, 'numeral': 253, 'gravity': 243, 'bit_ops': 230, 'cipher': 232, 'symbol': 37}
+  [1240/7621] ok=1740 fail=0 rps=5.39 tok=151346 avg_score=79.5 types={'unit_conv': 228, 'numeral': 257, 'gravity': 248, 'bit_ops': 234, 'cipher': 236, 'symbol': 37}
+  ** Checkpoint saved (1750 rows)
+  [1260/7621] ok=1760 fail=0 rps=5.39 tok=154189 avg_score=79.5 types={'unit_conv': 231, 'numeral': 258, 'gravity': 252, 'bit_ops': 238, 'cipher': 243, 'symbol': 38}
+  [1280/7621] ok=1780 fail=0 rps=5.37 tok=156263 avg_score=79.5 types={'unit_conv': 237, 'numeral': 261, 'gravity': 255, 'bit_ops': 241, 'cipher': 247, 'symbol': 39}
+  [1300/7621] ok=1800 fail=0 rps=5.36 tok=158518 avg_score=79.5 types={'unit_conv': 240, 'numeral': 264, 'gravity': 262, 'bit_ops': 245, 'cipher': 248, 'symbol': 41}
+  ** Checkpoint saved (1800 rows)
+  [1320/7621] ok=1820 fail=0 rps=5.38 tok=161665 avg_score=79.5 types={'unit_conv': 242, 'numeral': 267, 'gravity': 266, 'bit_ops': 251, 'cipher': 252, 'symbol': 42}
+  [1340/7621] ok=1840 fail=0 rps=5.38 tok=164311 avg_score=79.5 types={'unit_conv': 246, 'numeral': 269, 'gravity': 270, 'bit_ops': 254, 'cipher': 257, 'symbol': 44}
+  ** Checkpoint saved (1850 rows)
+  [1360/7621] ok=1860 fail=0 rps=5.35 tok=166927 avg_score=79.5 types={'unit_conv': 247, 'numeral': 271, 'gravity': 279, 'bit_ops': 257, 'cipher': 262, 'symbol': 44}
+  [1380/7621] ok=1880 fail=0 rps=5.36 tok=169131 avg_score=79.5 types={'unit_conv': 252, 'numeral': 277, 'gravity': 282, 'bit_ops': 261, 'cipher': 264, 'symbol': 44}
+  [1400/7621] ok=1900 fail=0 rps=5.37 tok=172983 avg_score=79.5 types={'unit_conv': 254, 'numeral': 280, 'gravity': 285, 'bit_ops': 269, 'cipher': 268, 'symbol': 44}
+  ** Checkpoint saved (1900 rows)
+  [1420/7621] ok=1920 fail=0 rps=5.37 tok=175315 avg_score=79.5 types={'unit_conv': 260, 'numeral': 285, 'gravity': 286, 'bit_ops': 272, 'cipher': 272, 'symbol': 45}
+  [1440/7621] ok=1940 fail=0 rps=5.37 tok=177723 avg_score=79.5 types={'unit_conv': 263, 'numeral': 289, 'gravity': 292, 'bit_ops': 276, 'cipher': 275, 'symbol': 45}
+  ** Checkpoint saved (1950 rows)
+  [1460/7621] ok=1960 fail=0 rps=5.36 tok=180280 avg_score=79.5 types={'unit_conv': 268, 'numeral': 292, 'gravity': 297, 'bit_ops': 281, 'cipher': 277, 'symbol': 45}
+  [1480/7621] ok=1980 fail=0 rps=5.38 tok=182696 avg_score=79.5 types={'unit_conv': 272, 'numeral': 296, 'gravity': 302, 'bit_ops': 284, 'cipher': 281, 'symbol': 45}
+  [1500/7621] ok=2000 fail=0 rps=5.39 tok=185205 avg_score=79.5 types={'unit_conv': 275, 'numeral': 300, 'gravity': 305, 'bit_ops': 289, 'cipher': 284, 'symbol': 47}
+  ** Checkpoint saved (2000 rows)
+  [1520/7621] ok=2020 fail=0 rps=5.38 tok=186890 avg_score=79.5 types={'unit_conv': 280, 'numeral': 307, 'gravity': 307, 'bit_ops': 292, 'cipher': 285, 'symbol': 49}
+  [1540/7621] ok=2040 fail=0 rps=5.36 tok=189666 avg_score=79.5 types={'unit_conv': 283, 'numeral': 310, 'gravity': 311, 'bit_ops': 297, 'cipher': 290, 'symbol': 49}
+  ** Checkpoint saved (2050 rows)
+  [1560/7621] ok=2060 fail=0 rps=5.37 tok=193015 avg_score=79.5 types={'unit_conv': 286, 'numeral': 314, 'gravity': 313, 'bit_ops': 305, 'cipher': 293, 'symbol': 49}
+  [1580/7621] ok=2080 fail=0 rps=5.36 tok=196552 avg_score=79.5 types={'unit_conv': 288, 'numeral': 316, 'gravity': 314, 'bit_ops': 312, 'cipher': 299, 'symbol': 51}
+  [1600/7621] ok=2100 fail=0 rps=5.37 tok=198131 avg_score=79.5 types={'unit_conv': 294, 'numeral': 323, 'gravity': 315, 'bit_ops': 314, 'cipher': 301, 'symbol': 53}
+  ** Checkpoint saved (2100 rows)
+  [1620/7621] ok=2120 fail=0 rps=5.38 tok=200766 avg_score=79.5 types={'unit_conv': 296, 'numeral': 328, 'gravity': 318, 'bit_ops': 319, 'cipher': 306, 'symbol': 53}
+  [1640/7621] ok=2140 fail=0 rps=5.38 tok=203014 avg_score=79.5 types={'unit_conv': 300, 'numeral': 332, 'gravity': 322, 'bit_ops': 321, 'cipher': 311, 'symbol': 54}
+  ** Checkpoint saved (2150 rows)
+  [1660/7621] ok=2160 fail=0 rps=5.40 tok=204790 avg_score=79.5 types={'unit_conv': 302, 'numeral': 339, 'gravity': 328, 'bit_ops': 322, 'cipher': 315, 'symbol': 54}
+  [1680/7621] ok=2180 fail=0 rps=5.40 tok=206978 avg_score=79.5 types={'unit_conv': 305, 'numeral': 344, 'gravity': 334, 'bit_ops': 324, 'cipher': 319, 'symbol': 54}
+  [1700/7621] ok=2200 fail=0 rps=5.42 tok=208942 avg_score=79.5 types={'unit_conv': 309, 'numeral': 347, 'gravity': 339, 'bit_ops': 326, 'cipher': 322, 'symbol': 57}
+  ** Checkpoint saved (2200 rows)
+  [1720/7621] ok=2220 fail=0 rps=5.42 tok=210484 avg_score=79.5 types={'unit_conv': 313, 'numeral': 355, 'gravity': 341, 'bit_ops': 328, 'cipher': 325, 'symbol': 58}
+  [1740/7621] ok=2240 fail=0 rps=5.43 tok=212376 avg_score=79.5 types={'unit_conv': 318, 'numeral': 359, 'gravity': 348, 'bit_ops': 331, 'cipher': 326, 'symbol': 58}
+  ** Checkpoint saved (2250 rows)
+  [1760/7621] ok=2260 fail=0 rps=5.43 tok=214660 avg_score=79.5 types={'unit_conv': 322, 'numeral': 362, 'gravity': 354, 'bit_ops': 334, 'cipher': 330, 'symbol': 58}
+  [1780/7621] ok=2280 fail=0 rps=5.43 tok=216382 avg_score=79.5 types={'unit_conv': 327, 'numeral': 365, 'gravity': 362, 'bit_ops': 336, 'cipher': 331, 'symbol': 59}
+  [1800/7621] ok=2300 fail=0 rps=5.44 tok=219212 avg_score=79.5 types={'unit_conv': 327, 'numeral': 369, 'gravity': 369, 'bit_ops': 340, 'cipher': 336, 'symbol': 59}
+  ** Checkpoint saved (2300 rows)
+  [1820/7621] ok=2320 fail=0 rps=5.44 tok=221482 avg_score=79.5 types={'unit_conv': 330, 'numeral': 376, 'gravity': 372, 'bit_ops': 343, 'cipher': 340, 'symbol': 59}
+  [1840/7621] ok=2340 fail=0 rps=5.43 tok=224472 avg_score=79.5 types={'unit_conv': 334, 'numeral': 377, 'gravity': 376, 'bit_ops': 346, 'cipher': 348, 'symbol': 59}
+  ** Checkpoint saved (2350 rows)
+  [1860/7621] ok=2360 fail=0 rps=5.44 tok=227028 avg_score=79.5 types={'unit_conv': 337, 'numeral': 381, 'gravity': 378, 'bit_ops': 349, 'cipher': 356, 'symbol': 59}
+  [1880/7621] ok=2380 fail=0 rps=5.44 tok=229788 avg_score=79.5 types={'unit_conv': 341, 'numeral': 384, 'gravity': 380, 'bit_ops': 353, 'cipher': 362, 'symbol': 60}
+  [1900/7621] ok=2400 fail=0 rps=5.43 tok=232182 avg_score=79.4 types={'unit_conv': 346, 'numeral': 387, 'gravity': 383, 'bit_ops': 355, 'cipher': 368, 'symbol': 61}
+  ** Checkpoint saved (2400 rows)
+  [1920/7621] ok=2420 fail=0 rps=5.44 tok=234581 avg_score=79.4 types={'unit_conv': 349, 'numeral': 393, 'gravity': 386, 'bit_ops': 359, 'cipher': 372, 'symbol': 61}
+  [1940/7621] ok=2440 fail=0 rps=5.44 tok=236987 avg_score=79.4 types={'unit_conv': 351, 'numeral': 401, 'gravity': 388, 'bit_ops': 364, 'cipher': 375, 'symbol': 61}
+  ** Checkpoint saved (2450 rows)
+  [1960/7621] ok=2460 fail=0 rps=5.43 tok=239772 avg_score=79.5 types={'unit_conv': 354, 'numeral': 403, 'gravity': 393, 'bit_ops': 369, 'cipher': 378, 'symbol': 63}
+  [1980/7621] ok=2480 fail=0 rps=5.44 tok=242185 avg_score=79.4 types={'unit_conv': 357, 'numeral': 406, 'gravity': 396, 'bit_ops': 370, 'cipher': 386, 'symbol': 65}
+  [2000/7621] ok=2500 fail=0 rps=5.43 tok=245082 avg_score=79.4 types={'unit_conv': 361, 'numeral': 408, 'gravity': 401, 'bit_ops': 374, 'cipher': 390, 'symbol': 66}
+  ** Checkpoint saved (2500 rows)
+  [2020/7621] ok=2520 fail=0 rps=5.41 tok=247072 avg_score=79.4 types={'unit_conv': 367, 'numeral': 412, 'gravity': 406, 'bit_ops': 378, 'cipher': 391, 'symbol': 66}
+  [2040/7621] ok=2540 fail=0 rps=5.43 tok=250685 avg_score=79.5 types={'unit_conv': 368, 'numeral': 415, 'gravity': 408, 'bit_ops': 385, 'cipher': 398, 'symbol': 66}
+  ** Checkpoint saved (2550 rows)
+  [2060/7621] ok=2560 fail=0 rps=5.42 tok=253425 avg_score=79.5 types={'unit_conv': 369, 'numeral': 419, 'gravity': 412, 'bit_ops': 389, 'cipher': 405, 'symbol': 66}
+  [2080/7621] ok=2580 fail=0 rps=5.42 tok=255601 avg_score=79.4 types={'unit_conv': 372, 'numeral': 425, 'gravity': 418, 'bit_ops': 391, 'cipher': 408, 'symbol': 66}
+  [2100/7621] ok=2600 fail=0 rps=5.42 tok=258366 avg_score=79.4 types={'unit_conv': 376, 'numeral': 428, 'gravity': 421, 'bit_ops': 395, 'cipher': 414, 'symbol': 66}
+  ** Checkpoint saved (2600 rows)
+  [2120/7621] ok=2620 fail=0 rps=5.42 tok=260639 avg_score=79.4 types={'unit_conv': 380, 'numeral': 433, 'gravity': 424, 'bit_ops': 397, 'cipher': 420, 'symbol': 66}
+  [2140/7621] ok=2640 fail=0 rps=5.42 tok=263170 avg_score=79.4 types={'unit_conv': 384, 'numeral': 437, 'gravity': 427, 'bit_ops': 400, 'cipher': 425, 'symbol': 67}
+  ** Checkpoint saved (2650 rows)
+  [2160/7621] ok=2660 fail=0 rps=5.41 tok=265428 avg_score=79.4 types={'unit_conv': 389, 'numeral': 443, 'gravity': 429, 'bit_ops': 404, 'cipher': 428, 'symbol': 67}
+  [2180/7621] ok=2680 fail=0 rps=5.43 tok=268210 avg_score=79.4 types={'unit_conv': 395, 'numeral': 446, 'gravity': 431, 'bit_ops': 409, 'cipher': 432, 'symbol': 67}
+  [2200/7621] ok=2700 fail=0 rps=5.42 tok=270548 avg_score=79.4 types={'unit_conv': 400, 'numeral': 449, 'gravity': 434, 'bit_ops': 411, 'cipher': 438, 'symbol': 68}
+  ** Checkpoint saved (2700 rows)
+  [2220/7621] ok=2720 fail=0 rps=5.43 tok=272815 avg_score=79.4 types={'unit_conv': 404, 'numeral': 451, 'gravity': 442, 'bit_ops': 414, 'cipher': 440, 'symbol': 69}
+  [2240/7621] ok=2740 fail=0 rps=5.42 tok=276341 avg_score=79.4 types={'unit_conv': 405, 'numeral': 452, 'gravity': 446, 'bit_ops': 421, 'cipher': 447, 'symbol': 69}
+  ** Checkpoint saved (2750 rows)
+  [2260/7621] ok=2760 fail=0 rps=5.40 tok=279265 avg_score=79.4 types={'unit_conv': 407, 'numeral': 456, 'gravity': 451, 'bit_ops': 426, 'cipher': 451, 'symbol': 69}
+  [2280/7621] ok=2780 fail=0 rps=5.38 tok=282360 avg_score=79.4 types={'unit_conv': 410, 'numeral': 458, 'gravity': 454, 'bit_ops': 432, 'cipher': 456, 'symbol': 70}
+  [2300/7621] ok=2800 fail=0 rps=5.35 tok=285095 avg_score=79.4 types={'unit_conv': 413, 'numeral': 464, 'gravity': 456, 'bit_ops': 437, 'cipher': 460, 'symbol': 70}
+  ** Checkpoint saved (2800 rows)
+  [2320/7621] ok=2820 fail=0 rps=5.35 tok=287720 avg_score=79.4 types={'unit_conv': 415, 'numeral': 468, 'gravity': 459, 'bit_ops': 443, 'cipher': 464, 'symbol': 71}
+  [2340/7621] ok=2840 fail=0 rps=5.35 tok=291145 avg_score=79.5 types={'unit_conv': 422, 'numeral': 469, 'gravity': 461, 'bit_ops': 450, 'cipher': 467, 'symbol': 71}
+  ** Checkpoint saved (2850 rows)
+  [2360/7621] ok=2860 fail=0 rps=5.35 tok=292926 avg_score=79.4 types={'unit_conv': 430, 'numeral': 471, 'gravity': 466, 'bit_ops': 451, 'cipher': 471, 'symbol': 71}
+  [2380/7621] ok=2880 fail=0 rps=5.25 tok=294656 avg_score=79.4 types={'unit_conv': 435, 'numeral': 476, 'gravity': 470, 'bit_ops': 452, 'cipher': 475, 'symbol': 72}
+  [2400/7621] ok=2900 fail=0 rps=5.24 tok=296702 avg_score=79.4 types={'unit_conv': 441, 'numeral': 480, 'gravity': 474, 'bit_ops': 455, 'cipher': 478, 'symbol': 72}
+  ** Checkpoint saved (2900 rows)
+  [2420/7621] ok=2920 fail=0 rps=5.24 tok=299746 avg_score=79.4 types={'unit_conv': 441, 'numeral': 484, 'gravity': 478, 'bit_ops': 461, 'cipher': 483, 'symbol': 73}
+  [2440/7621] ok=2940 fail=0 rps=5.22 tok=303102 avg_score=79.4 types={'unit_conv': 442, 'numeral': 489, 'gravity': 481, 'bit_ops': 467, 'cipher': 488, 'symbol': 73}
+  ** Checkpoint saved (2950 rows)
+  [2460/7621] ok=2960 fail=0 rps=5.23 tok=305428 avg_score=79.5 types={'unit_conv': 443, 'numeral': 494, 'gravity': 486, 'bit_ops': 471, 'cipher': 491, 'symbol': 75}
+  [2480/7621] ok=2980 fail=0 rps=5.22 tok=307265 avg_score=79.5 types={'unit_conv': 448, 'numeral': 501, 'gravity': 487, 'bit_ops': 475, 'cipher': 494, 'symbol': 75}
+  [2500/7621] ok=3000 fail=0 rps=5.22 tok=310050 avg_score=79.5 types={'unit_conv': 452, 'numeral': 507, 'gravity': 488, 'bit_ops': 481, 'cipher': 497, 'symbol': 75}
+  ** Checkpoint saved (3000 rows)
+  [2520/7621] ok=3020 fail=0 rps=5.20 tok=312630 avg_score=79.5 types={'unit_conv': 459, 'numeral': 508, 'gravity': 491, 'bit_ops': 485, 'cipher': 502, 'symbol': 75}
+  [2540/7621] ok=3040 fail=0 rps=5.20 tok=315899 avg_score=79.5 types={'unit_conv': 460, 'numeral': 509, 'gravity': 498, 'bit_ops': 490, 'cipher': 507, 'symbol': 76}
+  ** Checkpoint saved (3050 rows)
+  [2560/7621] ok=3060 fail=0 rps=5.19 tok=318075 avg_score=79.5 types={'unit_conv': 465, 'numeral': 512, 'gravity': 504, 'bit_ops': 491, 'cipher': 512, 'symbol': 76}
+  [2580/7621] ok=3080 fail=0 rps=5.19 tok=320846 avg_score=79.5 types={'unit_conv': 468, 'numeral': 517, 'gravity': 507, 'bit_ops': 496, 'cipher': 515, 'symbol': 77}
+  [2600/7621] ok=3100 fail=0 rps=5.19 tok=322654 avg_score=79.5 types={'unit_conv': 473, 'numeral': 522, 'gravity': 513, 'bit_ops': 497, 'cipher': 518, 'symbol': 77}
+  ** Checkpoint saved (3100 rows)
+  [2620/7621] ok=3120 fail=0 rps=5.17 tok=324909 avg_score=79.5 types={'unit_conv': 478, 'numeral': 526, 'gravity': 518, 'bit_ops': 500, 'cipher': 521, 'symbol': 77}
+  [2640/7621] ok=3140 fail=0 rps=5.16 tok=328148 avg_score=79.5 types={'unit_conv': 479, 'numeral': 528, 'gravity': 523, 'bit_ops': 505, 'cipher': 528, 'symbol': 77}
+  ** Checkpoint saved (3150 rows)
+  [2660/7621] ok=3160 fail=0 rps=5.17 tok=330720 avg_score=79.5 types={'unit_conv': 482, 'numeral': 531, 'gravity': 527, 'bit_ops': 508, 'cipher': 535, 'symbol': 77}
+  [2680/7621] ok=3180 fail=0 rps=5.18 tok=333016 avg_score=79.5 types={'unit_conv': 487, 'numeral': 536, 'gravity': 530, 'bit_ops': 512, 'cipher': 538, 'symbol': 77}
+  [2700/7621] ok=3200 fail=0 rps=5.18 tok=335499 avg_score=79.5 types={'unit_conv': 492, 'numeral': 541, 'gravity': 534, 'bit_ops': 518, 'cipher': 538, 'symbol': 77}
+  ** Checkpoint saved (3200 rows)
+  [2720/7621] ok=3220 fail=0 rps=5.18 tok=337033 avg_score=79.5 types={'unit_conv': 500, 'numeral': 545, 'gravity': 539, 'bit_ops': 520, 'cipher': 538, 'symbol': 78}
+  [2740/7621] ok=3240 fail=0 rps=5.19 tok=339573 avg_score=79.5 types={'unit_conv': 506, 'numeral': 548, 'gravity': 540, 'bit_ops': 523, 'cipher': 545, 'symbol': 78}
+  ** Checkpoint saved (3250 rows)
+  [2760/7621] ok=3260 fail=0 rps=5.19 tok=341250 avg_score=79.5 types={'unit_conv': 515, 'numeral': 552, 'gravity': 542, 'bit_ops': 525, 'cipher': 548, 'symbol': 78}
+  [2780/7621] ok=3280 fail=0 rps=5.18 tok=343913 avg_score=79.5 types={'unit_conv': 517, 'numeral': 553, 'gravity': 552, 'bit_ops': 529, 'cipher': 550, 'symbol': 79}
+  [2800/7621] ok=3300 fail=0 rps=5.18 tok=346525 avg_score=79.5 types={'unit_conv': 521, 'numeral': 557, 'gravity': 557, 'bit_ops': 536, 'cipher': 550, 'symbol': 79}
+  ** Checkpoint saved (3300 rows)
+  [2820/7621] ok=3320 fail=0 rps=5.19 tok=349213 avg_score=79.5 types={'unit_conv': 524, 'numeral': 560, 'gravity': 562, 'bit_ops': 541, 'cipher': 553, 'symbol': 80}
+  [2840/7621] ok=3340 fail=0 rps=5.19 tok=351386 avg_score=79.5 types={'unit_conv': 529, 'numeral': 562, 'gravity': 569, 'bit_ops': 544, 'cipher': 556, 'symbol': 80}
+  ** Checkpoint saved (3350 rows)
+  [2860/7621] ok=3360 fail=0 rps=5.19 tok=354138 avg_score=79.5 types={'unit_conv': 533, 'numeral': 565, 'gravity': 573, 'bit_ops': 548, 'cipher': 561, 'symbol': 80}
+  [2880/7621] ok=3380 fail=0 rps=5.19 tok=356098 avg_score=79.5 types={'unit_conv': 537, 'numeral': 570, 'gravity': 576, 'bit_ops': 549, 'cipher': 567, 'symbol': 81}
+  [2900/7621] ok=3400 fail=0 rps=5.18 tok=358889 avg_score=79.5 types={'unit_conv': 539, 'numeral': 572, 'gravity': 581, 'bit_ops': 554, 'cipher': 571, 'symbol': 83}
+  ** Checkpoint saved (3400 rows)
+  [2920/7621] ok=3420 fail=0 rps=5.18 tok=362106 avg_score=79.5 types={'unit_conv': 540, 'numeral': 575, 'gravity': 585, 'bit_ops': 562, 'cipher': 575, 'symbol': 83}
+  [2940/7621] ok=3440 fail=0 rps=5.18 tok=365389 avg_score=79.5 types={'unit_conv': 544, 'numeral': 576, 'gravity': 589, 'bit_ops': 569, 'cipher': 579, 'symbol': 83}
+  ** Checkpoint saved (3450 rows)
+  [2960/7621] ok=3460 fail=0 rps=5.17 tok=367785 avg_score=79.5 types={'unit_conv': 546, 'numeral': 582, 'gravity': 594, 'bit_ops': 574, 'cipher': 580, 'symbol': 84}
+  [2980/7621] ok=3480 fail=0 rps=5.18 tok=370125 avg_score=79.5 types={'unit_conv': 550, 'numeral': 584, 'gravity': 600, 'bit_ops': 576, 'cipher': 585, 'symbol': 85}
+  [3000/7621] ok=3500 fail=0 rps=5.17 tok=373158 avg_score=79.5 types={'unit_conv': 554, 'numeral': 586, 'gravity': 601, 'bit_ops': 583, 'cipher': 590, 'symbol': 86}
+  ** Checkpoint saved (3500 rows)
+  [3020/7621] ok=3520 fail=0 rps=5.18 tok=375494 avg_score=79.5 types={'unit_conv': 557, 'numeral': 588, 'gravity': 608, 'bit_ops': 586, 'cipher': 593, 'symbol': 88}
+  [3040/7621] ok=3540 fail=0 rps=5.17 tok=377943 avg_score=79.5 types={'unit_conv': 561, 'numeral': 592, 'gravity': 610, 'bit_ops': 590, 'cipher': 599, 'symbol': 88}
+  ** Checkpoint saved (3550 rows)
+  [3060/7621] ok=3560 fail=0 rps=5.18 tok=380195 avg_score=79.5 types={'unit_conv': 565, 'numeral': 599, 'gravity': 612, 'bit_ops': 593, 'cipher': 603, 'symbol': 88}
+  [3080/7621] ok=3580 fail=0 rps=5.18 tok=382327 avg_score=79.5 types={'unit_conv': 572, 'numeral': 603, 'gravity': 614, 'bit_ops': 595, 'cipher': 608, 'symbol': 88}
+  [3100/7621] ok=3600 fail=0 rps=5.19 tok=384502 avg_score=79.5 types={'unit_conv': 576, 'numeral': 607, 'gravity': 616, 'bit_ops': 601, 'cipher': 610, 'symbol': 90}
+  ** Checkpoint saved (3600 rows)
+  [3120/7621] ok=3620 fail=0 rps=5.18 tok=386650 avg_score=79.5 types={'unit_conv': 582, 'numeral': 612, 'gravity': 619, 'bit_ops': 606, 'cipher': 610, 'symbol': 91}
+  [3140/7621] ok=3640 fail=0 rps=5.20 tok=388886 avg_score=79.5 types={'unit_conv': 588, 'numeral': 618, 'gravity': 621, 'bit_ops': 610, 'cipher': 612, 'symbol': 91}
+  ** Checkpoint saved (3650 rows)
+  [3160/7621] ok=3660 fail=0 rps=5.18 tok=390639 avg_score=79.5 types={'unit_conv': 596, 'numeral': 621, 'gravity': 626, 'bit_ops': 613, 'cipher': 613, 'symbol': 91}
+  [3180/7621] ok=3680 fail=0 rps=5.18 tok=393280 avg_score=79.5 types={'unit_conv': 600, 'numeral': 624, 'gravity': 629, 'bit_ops': 618, 'cipher': 616, 'symbol': 93}
+  [3200/7621] ok=3700 fail=0 rps=5.19 tok=396132 avg_score=79.5 types={'unit_conv': 605, 'numeral': 627, 'gravity': 630, 'bit_ops': 624, 'cipher': 621, 'symbol': 93}
+  ** Checkpoint saved (3700 rows)
+  [3220/7621] ok=3720 fail=0 rps=5.20 tok=398610 avg_score=79.5 types={'unit_conv': 609, 'numeral': 630, 'gravity': 636, 'bit_ops': 626, 'cipher': 625, 'symbol': 94}
+  [3240/7621] ok=3740 fail=0 rps=5.19 tok=400876 avg_score=79.5 types={'unit_conv': 612, 'numeral': 633, 'gravity': 646, 'bit_ops': 630, 'cipher': 625, 'symbol': 94}
+  ** Checkpoint saved (3750 rows)
+  [3260/7621] ok=3760 fail=0 rps=5.20 tok=402448 avg_score=79.5 types={'unit_conv': 617, 'numeral': 637, 'gravity': 652, 'bit_ops': 633, 'cipher': 625, 'symbol': 96}
+  [3280/7621] ok=3780 fail=0 rps=5.20 tok=405166 avg_score=79.5 types={'unit_conv': 621, 'numeral': 641, 'gravity': 654, 'bit_ops': 636, 'cipher': 632, 'symbol': 96}
+  [3300/7621] ok=3800 fail=0 rps=5.20 tok=406801 avg_score=79.5 types={'unit_conv': 622, 'numeral': 650, 'gravity': 660, 'bit_ops': 639, 'cipher': 633, 'symbol': 96}
+  ** Checkpoint saved (3800 rows)
+  [3320/7621] ok=3820 fail=0 rps=5.19 tok=409716 avg_score=79.5 types={'unit_conv': 625, 'numeral': 654, 'gravity': 662, 'bit_ops': 644, 'cipher': 638, 'symbol': 97}
+  [3340/7621] ok=3840 fail=0 rps=5.20 tok=413693 avg_score=79.5 types={'unit_conv': 626, 'numeral': 656, 'gravity': 664, 'bit_ops': 653, 'cipher': 644, 'symbol': 97}
+  ** Checkpoint saved (3850 rows)
+  [3360/7621] ok=3860 fail=0 rps=5.19 tok=417157 avg_score=79.5 types={'unit_conv': 629, 'numeral': 658, 'gravity': 665, 'bit_ops': 662, 'cipher': 648, 'symbol': 98}
+  [3380/7621] ok=3880 fail=0 rps=5.20 tok=419245 avg_score=79.5 types={'unit_conv': 636, 'numeral': 659, 'gravity': 670, 'bit_ops': 664, 'cipher': 653, 'symbol': 98}
+  [3400/7621] ok=3900 fail=0 rps=5.19 tok=422567 avg_score=79.5 types={'unit_conv': 639, 'numeral': 659, 'gravity': 674, 'bit_ops': 671, 'cipher': 659, 'symbol': 98}
+  ** Checkpoint saved (3900 rows)
+  [3420/7621] ok=3920 fail=0 rps=5.19 tok=424344 avg_score=79.5 types={'unit_conv': 647, 'numeral': 661, 'gravity': 679, 'bit_ops': 673, 'cipher': 661, 'symbol': 99}
+  [3440/7621] ok=3940 fail=0 rps=5.19 tok=427177 avg_score=79.5 types={'unit_conv': 652, 'numeral': 664, 'gravity': 682, 'bit_ops': 678, 'cipher': 665, 'symbol': 99}
+  ** Checkpoint saved (3950 rows)
+  [3460/7621] ok=3960 fail=0 rps=5.19 tok=429313 avg_score=79.5 types={'unit_conv': 654, 'numeral': 669, 'gravity': 686, 'bit_ops': 680, 'cipher': 671, 'symbol': 100}
+  [3480/7621] ok=3980 fail=0 rps=5.20 tok=432113 avg_score=79.5 types={'unit_conv': 657, 'numeral': 673, 'gravity': 691, 'bit_ops': 684, 'cipher': 674, 'symbol': 101}
+  [3500/7621] ok=4000 fail=0 rps=5.20 tok=434049 avg_score=79.5 types={'unit_conv': 664, 'numeral': 679, 'gravity': 693, 'bit_ops': 686, 'cipher': 676, 'symbol': 102}
+  ** Checkpoint saved (4000 rows)
+  [3520/7621] ok=4020 fail=0 rps=5.19 tok=437588 avg_score=79.5 types={'unit_conv': 666, 'numeral': 680, 'gravity': 697, 'bit_ops': 693, 'cipher': 682, 'symbol': 102}
+  [3540/7621] ok=4040 fail=0 rps=5.19 tok=440213 avg_score=79.5 types={'unit_conv': 668, 'numeral': 683, 'gravity': 701, 'bit_ops': 694, 'cipher': 691, 'symbol': 103}
+  ** Checkpoint saved (4050 rows)
+  [3560/7621] ok=4060 fail=0 rps=5.19 tok=443508 avg_score=79.5 types={'unit_conv': 672, 'numeral': 685, 'gravity': 705, 'bit_ops': 700, 'cipher': 695, 'symbol': 103}
+  [3580/7621] ok=4080 fail=0 rps=5.18 tok=445665 avg_score=79.5 types={'unit_conv': 676, 'numeral': 687, 'gravity': 712, 'bit_ops': 705, 'cipher': 697, 'symbol': 103}
+  [3600/7621] ok=4100 fail=0 rps=5.19 tok=447347 avg_score=79.5 types={'unit_conv': 681, 'numeral': 693, 'gravity': 715, 'bit_ops': 707, 'cipher': 700, 'symbol': 104}
+  ** Checkpoint saved (4100 rows)
+  [3620/7621] ok=4120 fail=0 rps=5.19 tok=450015 avg_score=79.5 types={'unit_conv': 686, 'numeral': 698, 'gravity': 718, 'bit_ops': 711, 'cipher': 703, 'symbol': 104}
+  [3640/7621] ok=4140 fail=0 rps=5.19 tok=452475 avg_score=79.5 types={'unit_conv': 690, 'numeral': 702, 'gravity': 723, 'bit_ops': 715, 'cipher': 705, 'symbol': 105}
+  ** Checkpoint saved (4150 rows)
+  [3660/7621] ok=4160 fail=0 rps=5.19 tok=454803 avg_score=79.5 types={'unit_conv': 699, 'numeral': 704, 'gravity': 725, 'bit_ops': 720, 'cipher': 707, 'symbol': 105}
+  [3680/7621] ok=4180 fail=0 rps=5.20 tok=456891 avg_score=79.5 types={'unit_conv': 704, 'numeral': 708, 'gravity': 730, 'bit_ops': 724, 'cipher': 708, 'symbol': 106}
+  [3700/7621] ok=4200 fail=0 rps=5.20 tok=459497 avg_score=79.5 types={'unit_conv': 707, 'numeral': 714, 'gravity': 733, 'bit_ops': 729, 'cipher': 711, 'symbol': 106}
+  ** Checkpoint saved (4200 rows)
+  [3720/7621] ok=4220 fail=0 rps=5.20 tok=462105 avg_score=79.5 types={'unit_conv': 709, 'numeral': 717, 'gravity': 739, 'bit_ops': 732, 'cipher': 717, 'symbol': 106}
+  [3740/7621] ok=4240 fail=0 rps=5.20 tok=464555 avg_score=79.5 types={'unit_conv': 711, 'numeral': 725, 'gravity': 740, 'bit_ops': 736, 'cipher': 722, 'symbol': 106}
+  ** Checkpoint saved (4250 rows)
+  [3760/7621] ok=4260 fail=0 rps=5.20 tok=466470 avg_score=79.5 types={'unit_conv': 716, 'numeral': 731, 'gravity': 743, 'bit_ops': 738, 'cipher': 725, 'symbol': 107}
+  [3780/7621] ok=4280 fail=0 rps=5.20 tok=469101 avg_score=79.5 types={'unit_conv': 718, 'numeral': 735, 'gravity': 747, 'bit_ops': 743, 'cipher': 729, 'symbol': 108}
+  [3800/7621] ok=4300 fail=0 rps=5.20 tok=471711 avg_score=79.5 types={'unit_conv': 722, 'numeral': 740, 'gravity': 751, 'bit_ops': 748, 'cipher': 731, 'symbol': 108}
+  ** Checkpoint saved (4300 rows)
+  [3820/7621] ok=4320 fail=0 rps=5.20 tok=474588 avg_score=79.5 types={'unit_conv': 725, 'numeral': 744, 'gravity': 753, 'bit_ops': 753, 'cipher': 736, 'symbol': 109}
+  [3840/7621] ok=4340 fail=0 rps=5.20 tok=477083 avg_score=79.5 types={'unit_conv': 730, 'numeral': 746, 'gravity': 756, 'bit_ops': 757, 'cipher': 741, 'symbol': 110}
+  ** Checkpoint saved (4350 rows)
+  [3860/7621] ok=4360 fail=0 rps=5.20 tok=479999 avg_score=79.5 types={'unit_conv': 733, 'numeral': 748, 'gravity': 763, 'bit_ops': 764, 'cipher': 742, 'symbol': 110}
+  [3880/7621] ok=4380 fail=0 rps=5.21 tok=482105 avg_score=79.5 types={'unit_conv': 738, 'numeral': 752, 'gravity': 767, 'bit_ops': 768, 'cipher': 744, 'symbol': 111}
+  [3900/7621] ok=4400 fail=0 rps=5.21 tok=484798 avg_score=79.5 types={'unit_conv': 740, 'numeral': 758, 'gravity': 771, 'bit_ops': 774, 'cipher': 746, 'symbol': 111}
+  ** Checkpoint saved (4400 rows)
+  [3920/7621] ok=4420 fail=0 rps=5.21 tok=487104 avg_score=79.5 types={'unit_conv': 743, 'numeral': 762, 'gravity': 776, 'bit_ops': 777, 'cipher': 749, 'symbol': 113}
+  [3940/7621] ok=4440 fail=0 rps=5.21 tok=489123 avg_score=79.5 types={'unit_conv': 748, 'numeral': 769, 'gravity': 778, 'bit_ops': 780, 'cipher': 752, 'symbol': 113}
+  ** Checkpoint saved (4450 rows)
+  [3960/7621] ok=4460 fail=0 rps=5.21 tok=491297 avg_score=79.5 types={'unit_conv': 754, 'numeral': 772, 'gravity': 783, 'bit_ops': 784, 'cipher': 753, 'symbol': 114}
+  [3980/7621] ok=4480 fail=0 rps=5.21 tok=494123 avg_score=79.5 types={'unit_conv': 757, 'numeral': 776, 'gravity': 786, 'bit_ops': 789, 'cipher': 757, 'symbol': 115}
+  [4000/7621] ok=4500 fail=0 rps=5.22 tok=496894 avg_score=79.5 types={'unit_conv': 760, 'numeral': 779, 'gravity': 790, 'bit_ops': 794, 'cipher': 761, 'symbol': 116}
+  ** Checkpoint saved (4500 rows)
+  [4020/7621] ok=4520 fail=0 rps=5.22 tok=498874 avg_score=79.5 types={'unit_conv': 766, 'numeral': 782, 'gravity': 797, 'bit_ops': 796, 'cipher': 763, 'symbol': 116}
+  [4040/7621] ok=4540 fail=0 rps=5.22 tok=501547 avg_score=79.5 types={'unit_conv': 769, 'numeral': 786, 'gravity': 803, 'bit_ops': 801, 'cipher': 764, 'symbol': 117}
+  ** Checkpoint saved (4550 rows)
+  [4060/7621] ok=4560 fail=0 rps=5.22 tok=504162 avg_score=79.5 types={'unit_conv': 775, 'numeral': 788, 'gravity': 807, 'bit_ops': 807, 'cipher': 766, 'symbol': 117}
+  [4080/7621] ok=4580 fail=0 rps=5.23 tok=506754 avg_score=79.5 types={'unit_conv': 778, 'numeral': 789, 'gravity': 814, 'bit_ops': 812, 'cipher': 769, 'symbol': 118}
+  [4100/7621] ok=4600 fail=0 rps=5.23 tok=508516 avg_score=79.5 types={'unit_conv': 784, 'numeral': 792, 'gravity': 818, 'bit_ops': 812, 'cipher': 774, 'symbol': 120}
+  ** Checkpoint saved (4600 rows)
+  [4120/7621] ok=4620 fail=0 rps=5.23 tok=510338 avg_score=79.5 types={'unit_conv': 788, 'numeral': 797, 'gravity': 823, 'bit_ops': 814, 'cipher': 777, 'symbol': 121}
+  [4140/7621] ok=4640 fail=0 rps=5.23 tok=511878 avg_score=79.5 types={'unit_conv': 795, 'numeral': 803, 'gravity': 826, 'bit_ops': 815, 'cipher': 780, 'symbol': 121}
+  ** Checkpoint saved (4650 rows)
+  [4160/7621] ok=4660 fail=0 rps=5.24 tok=514560 avg_score=79.5 types={'unit_conv': 799, 'numeral': 805, 'gravity': 830, 'bit_ops': 818, 'cipher': 787, 'symbol': 121}
+  [4180/7621] ok=4680 fail=0 rps=5.23 tok=516654 avg_score=79.5 types={'unit_conv': 805, 'numeral': 812, 'gravity': 830, 'bit_ops': 822, 'cipher': 790, 'symbol': 121}
+  [4200/7621] ok=4700 fail=0 rps=5.23 tok=519656 avg_score=79.5 types={'unit_conv': 805, 'numeral': 819, 'gravity': 833, 'bit_ops': 828, 'cipher': 794, 'symbol': 121}
+  ** Checkpoint saved (4700 rows)
+  [4220/7621] ok=4720 fail=0 rps=5.24 tok=522081 avg_score=79.5 types={'unit_conv': 807, 'numeral': 826, 'gravity': 835, 'bit_ops': 830, 'cipher': 801, 'symbol': 121}
+  [4240/7621] ok=4740 fail=0 rps=5.23 tok=525017 avg_score=79.5 types={'unit_conv': 812, 'numeral': 828, 'gravity': 836, 'bit_ops': 834, 'cipher': 806, 'symbol': 124}
+  ** Checkpoint saved (4750 rows)
+  [4260/7621] ok=4760 fail=0 rps=5.24 tok=527171 avg_score=79.5 types={'unit_conv': 818, 'numeral': 831, 'gravity': 839, 'bit_ops': 835, 'cipher': 813, 'symbol': 124}
+  [4280/7621] ok=4780 fail=0 rps=5.24 tok=529501 avg_score=79.5 types={'unit_conv': 820, 'numeral': 835, 'gravity': 841, 'bit_ops': 837, 'cipher': 820, 'symbol': 127}
+  [4300/7621] ok=4800 fail=0 rps=5.25 tok=530989 avg_score=79.5 types={'unit_conv': 826, 'numeral': 840, 'gravity': 847, 'bit_ops': 838, 'cipher': 822, 'symbol': 127}
+  ** Checkpoint saved (4800 rows)
+  [4320/7621] ok=4820 fail=0 rps=5.25 tok=533405 avg_score=79.5 types={'unit_conv': 829, 'numeral': 842, 'gravity': 853, 'bit_ops': 841, 'cipher': 828, 'symbol': 127}
+  [4340/7621] ok=4840 fail=0 rps=5.24 tok=535288 avg_score=79.5 types={'unit_conv': 839, 'numeral': 843, 'gravity': 855, 'bit_ops': 843, 'cipher': 832, 'symbol': 128}
+  ** Checkpoint saved (4850 rows)
+  [4360/7621] ok=4860 fail=0 rps=5.25 tok=538029 avg_score=79.5 types={'unit_conv': 846, 'numeral': 843, 'gravity': 859, 'bit_ops': 847, 'cipher': 837, 'symbol': 128}
+  [4380/7621] ok=4880 fail=0 rps=5.25 tok=540586 avg_score=79.5 types={'unit_conv': 847, 'numeral': 848, 'gravity': 862, 'bit_ops': 851, 'cipher': 843, 'symbol': 129}
+  [4400/7621] ok=4900 fail=0 rps=5.25 tok=542366 avg_score=79.5 types={'unit_conv': 853, 'numeral': 853, 'gravity': 864, 'bit_ops': 854, 'cipher': 845, 'symbol': 131}
+  ** Checkpoint saved (4900 rows)
+  [4420/7621] ok=4920 fail=0 rps=5.26 tok=544432 avg_score=79.5 types={'unit_conv': 856, 'numeral': 856, 'gravity': 873, 'bit_ops': 856, 'cipher': 848, 'symbol': 131}
+  [4440/7621] ok=4940 fail=0 rps=5.25 tok=546364 avg_score=79.5 types={'unit_conv': 862, 'numeral': 861, 'gravity': 874, 'bit_ops': 859, 'cipher': 852, 'symbol': 132}
+  ** Checkpoint saved (4950 rows)
+  [4460/7621] ok=4960 fail=0 rps=5.26 tok=548592 avg_score=79.5 types={'unit_conv': 865, 'numeral': 868, 'gravity': 876, 'bit_ops': 861, 'cipher': 857, 'symbol': 133}
+  [4480/7621] ok=4980 fail=0 rps=5.26 tok=551335 avg_score=79.5 types={'unit_conv': 867, 'numeral': 870, 'gravity': 883, 'bit_ops': 866, 'cipher': 860, 'symbol': 134}
+  [4500/7621] ok=5000 fail=0 rps=5.27 tok=553162 avg_score=79.5 types={'unit_conv': 874, 'numeral': 875, 'gravity': 886, 'bit_ops': 869, 'cipher': 862, 'symbol': 134}
+  ** Checkpoint saved (5000 rows)
+  [4520/7621] ok=5020 fail=0 rps=5.26 tok=555531 avg_score=79.5 types={'unit_conv': 877, 'numeral': 882, 'gravity': 889, 'bit_ops': 872, 'cipher': 866, 'symbol': 134}
+  [4540/7621] ok=5040 fail=0 rps=5.27 tok=557371 avg_score=79.5 types={'unit_conv': 882, 'numeral': 886, 'gravity': 896, 'bit_ops': 874, 'cipher': 868, 'symbol': 134}
+  ** Checkpoint saved (5050 rows)
+  [4560/7621] ok=5060 fail=0 rps=5.27 tok=559646 avg_score=79.5 types={'unit_conv': 882, 'numeral': 892, 'gravity': 902, 'bit_ops': 876, 'cipher': 873, 'symbol': 135}
+  [4580/7621] ok=5080 fail=0 rps=5.28 tok=561372 avg_score=79.5 types={'unit_conv': 887, 'numeral': 897, 'gravity': 907, 'bit_ops': 878, 'cipher': 876, 'symbol': 135}
+  [4600/7621] ok=5100 fail=0 rps=5.28 tok=563269 avg_score=79.5 types={'unit_conv': 893, 'numeral': 898, 'gravity': 914, 'bit_ops': 879, 'cipher': 880, 'symbol': 136}
+  ** Checkpoint saved (5100 rows)
+  [4620/7621] ok=5120 fail=0 rps=5.28 tok=565149 avg_score=79.5 types={'unit_conv': 901, 'numeral': 902, 'gravity': 916, 'bit_ops': 882, 'cipher': 883, 'symbol': 136}
+  [4640/7621] ok=5140 fail=0 rps=5.28 tok=567866 avg_score=79.5 types={'unit_conv': 906, 'numeral': 904, 'gravity': 918, 'bit_ops': 885, 'cipher': 891, 'symbol': 136}
+  ** Checkpoint saved (5150 rows)
+  [4660/7621] ok=5160 fail=0 rps=5.29 tok=570103 avg_score=79.5 types={'unit_conv': 909, 'numeral': 909, 'gravity': 923, 'bit_ops': 887, 'cipher': 896, 'symbol': 136}
+  [4680/7621] ok=5180 fail=0 rps=5.29 tok=571919 avg_score=79.5 types={'unit_conv': 913, 'numeral': 913, 'gravity': 930, 'bit_ops': 888, 'cipher': 900, 'symbol': 136}
+  [4700/7621] ok=5200 fail=0 rps=5.29 tok=573773 avg_score=79.5 types={'unit_conv': 920, 'numeral': 916, 'gravity': 934, 'bit_ops': 889, 'cipher': 905, 'symbol': 136}
+  ** Checkpoint saved (5200 rows)
+  [4720/7621] ok=5220 fail=0 rps=5.28 tok=576258 avg_score=79.5 types={'unit_conv': 923, 'numeral': 920, 'gravity': 939, 'bit_ops': 893, 'cipher': 908, 'symbol': 137}
+  [4740/7621] ok=5240 fail=0 rps=5.29 tok=579091 avg_score=79.5 types={'unit_conv': 926, 'numeral': 926, 'gravity': 940, 'bit_ops': 901, 'cipher': 910, 'symbol': 137}
+  ** Checkpoint saved (5250 rows)
+  [4760/7621] ok=5260 fail=0 rps=5.28 tok=581994 avg_score=79.5 types={'unit_conv': 930, 'numeral': 929, 'gravity': 943, 'bit_ops': 906, 'cipher': 915, 'symbol': 137}
+  [4780/7621] ok=5280 fail=0 rps=5.29 tok=583794 avg_score=79.5 types={'unit_conv': 931, 'numeral': 938, 'gravity': 949, 'bit_ops': 908, 'cipher': 917, 'symbol': 137}
+  [4800/7621] ok=5300 fail=0 rps=5.29 tok=586944 avg_score=79.5 types={'unit_conv': 933, 'numeral': 941, 'gravity': 953, 'bit_ops': 914, 'cipher': 922, 'symbol': 137}
+  ** Checkpoint saved (5300 rows)
+  [4820/7621] ok=5320 fail=0 rps=5.30 tok=589580 avg_score=79.5 types={'unit_conv': 938, 'numeral': 948, 'gravity': 954, 'bit_ops': 920, 'cipher': 923, 'symbol': 137}
+  [4840/7621] ok=5340 fail=0 rps=5.30 tok=591176 avg_score=79.5 types={'unit_conv': 945, 'numeral': 952, 'gravity': 959, 'bit_ops': 920, 'cipher': 927, 'symbol': 137}
+  ** Checkpoint saved (5350 rows)
+  [4860/7621] ok=5360 fail=0 rps=5.30 tok=592994 avg_score=79.5 types={'unit_conv': 950, 'numeral': 955, 'gravity': 964, 'bit_ops': 922, 'cipher': 930, 'symbol': 139}
+  [4880/7621] ok=5380 fail=0 rps=5.30 tok=595102 avg_score=79.5 types={'unit_conv': 954, 'numeral': 962, 'gravity': 966, 'bit_ops': 928, 'cipher': 931, 'symbol': 139}
+  [4900/7621] ok=5400 fail=0 rps=5.30 tok=598216 avg_score=79.5 types={'unit_conv': 954, 'numeral': 968, 'gravity': 970, 'bit_ops': 934, 'cipher': 935, 'symbol': 139}
+  ** Checkpoint saved (5400 rows)
+  [4920/7621] ok=5420 fail=0 rps=5.29 tok=600702 avg_score=79.5 types={'unit_conv': 959, 'numeral': 969, 'gravity': 973, 'bit_ops': 936, 'cipher': 942, 'symbol': 141}
+  [4940/7621] ok=5440 fail=0 rps=5.30 tok=604261 avg_score=79.5 types={'unit_conv': 962, 'numeral': 969, 'gravity': 977, 'bit_ops': 941, 'cipher': 950, 'symbol': 141}
+  ** Checkpoint saved (5450 rows)
+  [4960/7621] ok=5460 fail=0 rps=5.30 tok=606433 avg_score=79.5 types={'unit_conv': 964, 'numeral': 975, 'gravity': 980, 'bit_ops': 943, 'cipher': 955, 'symbol': 143}
+  [4980/7621] ok=5480 fail=0 rps=5.30 tok=609291 avg_score=79.5 types={'unit_conv': 970, 'numeral': 978, 'gravity': 982, 'bit_ops': 948, 'cipher': 959, 'symbol': 143}
+  [5000/7621] ok=5500 fail=0 rps=5.30 tok=611522 avg_score=79.5 types={'unit_conv': 974, 'numeral': 984, 'gravity': 983, 'bit_ops': 954, 'cipher': 962, 'symbol': 143}
+  ** Checkpoint saved (5500 rows)
+  [5020/7621] ok=5520 fail=0 rps=5.30 tok=614461 avg_score=79.5 types={'unit_conv': 978, 'numeral': 987, 'gravity': 987, 'bit_ops': 958, 'cipher': 967, 'symbol': 143}
+  [5040/7621] ok=5540 fail=0 rps=5.30 tok=616766 avg_score=79.5 types={'unit_conv': 982, 'numeral': 989, 'gravity': 995, 'bit_ops': 960, 'cipher': 971, 'symbol': 143}
+  ** Checkpoint saved (5550 rows)
+  [5060/7621] ok=5560 fail=0 rps=5.30 tok=618988 avg_score=79.5 types={'unit_conv': 986, 'numeral': 993, 'gravity': 1002, 'bit_ops': 963, 'cipher': 973, 'symbol': 143}
+  [5080/7621] ok=5580 fail=0 rps=5.30 tok=621574 avg_score=79.5 types={'unit_conv': 987, 'numeral': 1000, 'gravity': 1005, 'bit_ops': 969, 'cipher': 976, 'symbol': 143}
+  [5100/7621] ok=5600 fail=0 rps=5.30 tok=623926 avg_score=79.5 types={'unit_conv': 990, 'numeral': 1005, 'gravity': 1008, 'bit_ops': 974, 'cipher': 979, 'symbol': 144}
+  ** Checkpoint saved (5600 rows)
+  [5120/7621] ok=5620 fail=0 rps=5.31 tok=625614 avg_score=79.5 types={'unit_conv': 994, 'numeral': 1012, 'gravity': 1011, 'bit_ops': 975, 'cipher': 983, 'symbol': 145}
+  [5140/7621] ok=5640 fail=0 rps=5.31 tok=626998 avg_score=79.5 types={'unit_conv': 998, 'numeral': 1020, 'gravity': 1013, 'bit_ops': 976, 'cipher': 986, 'symbol': 147}
+  ** Checkpoint saved (5650 rows)
+  [5160/7621] ok=5660 fail=0 rps=5.30 tok=629350 avg_score=79.5 types={'unit_conv': 1000, 'numeral': 1028, 'gravity': 1014, 'bit_ops': 983, 'cipher': 987, 'symbol': 148}
+  [5180/7621] ok=5680 fail=0 rps=5.31 tok=632148 avg_score=79.5 types={'unit_conv': 1004, 'numeral': 1030, 'gravity': 1018, 'bit_ops': 987, 'cipher': 993, 'symbol': 148}
+  [5200/7621] ok=5700 fail=0 rps=5.30 tok=634620 avg_score=79.5 types={'unit_conv': 1011, 'numeral': 1033, 'gravity': 1022, 'bit_ops': 991, 'cipher': 995, 'symbol': 148}
+  ** Checkpoint saved (5700 rows)
+  [5220/7621] ok=5720 fail=0 rps=5.30 tok=637911 avg_score=79.5 types={'unit_conv': 1014, 'numeral': 1035, 'gravity': 1024, 'bit_ops': 996, 'cipher': 1002, 'symbol': 149}
+  [5240/7621] ok=5740 fail=0 rps=5.30 tok=640269 avg_score=79.5 types={'unit_conv': 1017, 'numeral': 1037, 'gravity': 1029, 'bit_ops': 1000, 'cipher': 1007, 'symbol': 150}
+  ** Checkpoint saved (5750 rows)
+  [5260/7621] ok=5760 fail=0 rps=5.30 tok=643445 avg_score=79.5 types={'unit_conv': 1020, 'numeral': 1037, 'gravity': 1035, 'bit_ops': 1005, 'cipher': 1013, 'symbol': 150}
+  [5280/7621] ok=5780 fail=0 rps=5.30 tok=645607 avg_score=79.5 types={'unit_conv': 1024, 'numeral': 1041, 'gravity': 1040, 'bit_ops': 1010, 'cipher': 1015, 'symbol': 150}
+  [5300/7621] ok=5800 fail=0 rps=5.30 tok=648792 avg_score=79.5 types={'unit_conv': 1027, 'numeral': 1043, 'gravity': 1042, 'bit_ops': 1015, 'cipher': 1022, 'symbol': 151}
+  ** Checkpoint saved (5800 rows)
+  [5320/7621] ok=5820 fail=0 rps=5.30 tok=651183 avg_score=79.5 types={'unit_conv': 1034, 'numeral': 1044, 'gravity': 1046, 'bit_ops': 1018, 'cipher': 1027, 'symbol': 151}
+  [5340/7621] ok=5840 fail=0 rps=5.29 tok=654710 avg_score=79.5 types={'unit_conv': 1036, 'numeral': 1046, 'gravity': 1048, 'bit_ops': 1024, 'cipher': 1035, 'symbol': 151}
+  ** Checkpoint saved (5850 rows)
+  [5360/7621] ok=5860 fail=0 rps=5.30 tok=657884 avg_score=79.5 types={'unit_conv': 1040, 'numeral': 1047, 'gravity': 1052, 'bit_ops': 1029, 'cipher': 1041, 'symbol': 151}
+  [5380/7621] ok=5880 fail=0 rps=5.30 tok=659760 avg_score=79.5 types={'unit_conv': 1043, 'numeral': 1054, 'gravity': 1055, 'bit_ops': 1030, 'cipher': 1046, 'symbol': 152}
+  [5400/7621] ok=5900 fail=0 rps=5.30 tok=662431 avg_score=79.5 types={'unit_conv': 1046, 'numeral': 1056, 'gravity': 1057, 'bit_ops': 1036, 'cipher': 1052, 'symbol': 153}
+  ** Checkpoint saved (5900 rows)
+  [5420/7621] ok=5920 fail=0 rps=5.29 tok=666097 avg_score=79.5 types={'unit_conv': 1047, 'numeral': 1057, 'gravity': 1062, 'bit_ops': 1041, 'cipher': 1060, 'symbol': 153}
+  [5440/7621] ok=5940 fail=0 rps=5.29 tok=668920 avg_score=79.5 types={'unit_conv': 1051, 'numeral': 1060, 'gravity': 1063, 'bit_ops': 1048, 'cipher': 1063, 'symbol': 155}
+  ** Checkpoint saved (5950 rows)
+  [5460/7621] ok=5960 fail=0 rps=5.29 tok=671991 avg_score=79.5 types={'unit_conv': 1052, 'numeral': 1063, 'gravity': 1068, 'bit_ops': 1052, 'cipher': 1070, 'symbol': 155}
+  [5480/7621] ok=5980 fail=0 rps=5.29 tok=675093 avg_score=79.5 types={'unit_conv': 1055, 'numeral': 1064, 'gravity': 1074, 'bit_ops': 1058, 'cipher': 1074, 'symbol': 155}
+  [5500/7621] ok=6000 fail=0 rps=5.29 tok=677703 avg_score=79.5 types={'unit_conv': 1058, 'numeral': 1067, 'gravity': 1078, 'bit_ops': 1062, 'cipher': 1080, 'symbol': 155}
+  ** Checkpoint saved (6000 rows)
+  [5520/7621] ok=6020 fail=0 rps=5.29 tok=680484 avg_score=79.5 types={'unit_conv': 1063, 'numeral': 1069, 'gravity': 1082, 'bit_ops': 1067, 'cipher': 1083, 'symbol': 156}
+  [5540/7621] ok=6040 fail=0 rps=5.29 tok=683127 avg_score=79.5 types={'unit_conv': 1066, 'numeral': 1073, 'gravity': 1087, 'bit_ops': 1072, 'cipher': 1086, 'symbol': 156}
+  ** Checkpoint saved (6050 rows)
+  [5560/7621] ok=6060 fail=0 rps=5.29 tok=685427 avg_score=79.5 types={'unit_conv': 1071, 'numeral': 1077, 'gravity': 1091, 'bit_ops': 1076, 'cipher': 1089, 'symbol': 156}
+  [5580/7621] ok=6080 fail=0 rps=5.30 tok=688243 avg_score=79.5 types={'unit_conv': 1075, 'numeral': 1081, 'gravity': 1094, 'bit_ops': 1082, 'cipher': 1092, 'symbol': 156}
+  [5600/7621] ok=6100 fail=0 rps=5.29 tok=690271 avg_score=79.5 types={'unit_conv': 1081, 'numeral': 1083, 'gravity': 1102, 'bit_ops': 1085, 'cipher': 1093, 'symbol': 156}
+  ** Checkpoint saved (6100 rows)
+  [5620/7621] ok=6120 fail=0 rps=5.30 tok=692898 avg_score=79.5 types={'unit_conv': 1086, 'numeral': 1086, 'gravity': 1106, 'bit_ops': 1089, 'cipher': 1097, 'symbol': 156}
+  [5640/7621] ok=6140 fail=0 rps=5.30 tok=695214 avg_score=79.5 types={'unit_conv': 1090, 'numeral': 1089, 'gravity': 1112, 'bit_ops': 1091, 'cipher': 1101, 'symbol': 157}
+  ** Checkpoint saved (6150 rows)
+  [5660/7621] ok=6160 fail=0 rps=5.30 tok=698040 avg_score=79.5 types={'unit_conv': 1095, 'numeral': 1091, 'gravity': 1116, 'bit_ops': 1096, 'cipher': 1105, 'symbol': 157}
+  [5680/7621] ok=6180 fail=0 rps=5.30 tok=700190 avg_score=79.5 types={'unit_conv': 1100, 'numeral': 1096, 'gravity': 1119, 'bit_ops': 1099, 'cipher': 1109, 'symbol': 157}
+  [5700/7621] ok=6200 fail=0 rps=5.31 tok=702952 avg_score=79.5 types={'unit_conv': 1102, 'numeral': 1098, 'gravity': 1125, 'bit_ops': 1102, 'cipher': 1116, 'symbol': 157}
+  ** Checkpoint saved (6200 rows)
+  [5720/7621] ok=6220 fail=0 rps=5.30 tok=705617 avg_score=79.5 types={'unit_conv': 1105, 'numeral': 1102, 'gravity': 1128, 'bit_ops': 1108, 'cipher': 1119, 'symbol': 158}
+  [5740/7621] ok=6240 fail=0 rps=5.30 tok=708361 avg_score=79.5 types={'unit_conv': 1108, 'numeral': 1105, 'gravity': 1131, 'bit_ops': 1112, 'cipher': 1126, 'symbol': 158}
+  ** Checkpoint saved (6250 rows)
+  [5760/7621] ok=6260 fail=0 rps=5.31 tok=711180 avg_score=79.5 types={'unit_conv': 1112, 'numeral': 1108, 'gravity': 1132, 'bit_ops': 1115, 'cipher': 1135, 'symbol': 158}
+  [5780/7621] ok=6280 fail=0 rps=5.31 tok=713814 avg_score=79.5 types={'unit_conv': 1113, 'numeral': 1111, 'gravity': 1140, 'bit_ops': 1117, 'cipher': 1140, 'symbol': 159}
+  [5800/7621] ok=6300 fail=0 rps=5.31 tok=715868 avg_score=79.5 types={'unit_conv': 1113, 'numeral': 1120, 'gravity': 1143, 'bit_ops': 1120, 'cipher': 1144, 'symbol': 160}
+  ** Checkpoint saved (6300 rows)
+  [5820/7621] ok=6320 fail=0 rps=5.31 tok=717953 avg_score=79.5 types={'unit_conv': 1115, 'numeral': 1129, 'gravity': 1146, 'bit_ops': 1124, 'cipher': 1146, 'symbol': 160}
+  [5840/7621] ok=6340 fail=0 rps=5.31 tok=721075 avg_score=79.5 types={'unit_conv': 1117, 'numeral': 1130, 'gravity': 1152, 'bit_ops': 1129, 'cipher': 1152, 'symbol': 160}
+  ** Checkpoint saved (6350 rows)
+  [5860/7621] ok=6360 fail=0 rps=5.32 tok=722893 avg_score=79.5 types={'unit_conv': 1124, 'numeral': 1135, 'gravity': 1154, 'bit_ops': 1133, 'cipher': 1152, 'symbol': 162}
+  [5880/7621] ok=6380 fail=0 rps=5.32 tok=725497 avg_score=79.5 types={'unit_conv': 1130, 'numeral': 1138, 'gravity': 1158, 'bit_ops': 1139, 'cipher': 1153, 'symbol': 162}
+  [5900/7621] ok=6400 fail=0 rps=5.32 tok=727339 avg_score=79.5 types={'unit_conv': 1137, 'numeral': 1142, 'gravity': 1163, 'bit_ops': 1142, 'cipher': 1154, 'symbol': 162}
+  ** Checkpoint saved (6400 rows)
+  [5920/7621] ok=6420 fail=0 rps=5.32 tok=729203 avg_score=79.5 types={'unit_conv': 1143, 'numeral': 1147, 'gravity': 1166, 'bit_ops': 1145, 'cipher': 1157, 'symbol': 162}
+  [5940/7621] ok=6440 fail=0 rps=5.32 tok=731128 avg_score=79.5 types={'unit_conv': 1147, 'numeral': 1153, 'gravity': 1170, 'bit_ops': 1146, 'cipher': 1162, 'symbol': 162}
+  ** Checkpoint saved (6450 rows)
+  [5960/7621] ok=6460 fail=0 rps=5.33 tok=733887 avg_score=79.5 types={'unit_conv': 1150, 'numeral': 1157, 'gravity': 1177, 'bit_ops': 1151, 'cipher': 1163, 'symbol': 162}
+  [5980/7621] ok=6480 fail=0 rps=5.33 tok=735653 avg_score=79.5 types={'unit_conv': 1154, 'numeral': 1163, 'gravity': 1181, 'bit_ops': 1153, 'cipher': 1165, 'symbol': 164}
+  [6000/7621] ok=6500 fail=0 rps=5.33 tok=737838 avg_score=79.5 types={'unit_conv': 1159, 'numeral': 1167, 'gravity': 1185, 'bit_ops': 1156, 'cipher': 1169, 'symbol': 164}
+  ** Checkpoint saved (6500 rows)
+  [6020/7621] ok=6520 fail=0 rps=5.33 tok=741078 avg_score=79.5 types={'unit_conv': 1161, 'numeral': 1171, 'gravity': 1188, 'bit_ops': 1162, 'cipher': 1174, 'symbol': 164}
+  [6040/7621] ok=6540 fail=0 rps=5.33 tok=743047 avg_score=79.5 types={'unit_conv': 1166, 'numeral': 1175, 'gravity': 1191, 'bit_ops': 1165, 'cipher': 1178, 'symbol': 165}
+  ** Checkpoint saved (6550 rows)
+  [6060/7621] ok=6560 fail=0 rps=5.33 tok=746066 avg_score=79.5 types={'unit_conv': 1168, 'numeral': 1177, 'gravity': 1199, 'bit_ops': 1170, 'cipher': 1181, 'symbol': 165}
+  [6080/7621] ok=6580 fail=0 rps=5.33 tok=748515 avg_score=79.5 types={'unit_conv': 1174, 'numeral': 1179, 'gravity': 1202, 'bit_ops': 1172, 'cipher': 1187, 'symbol': 166}
+  [6100/7621] ok=6600 fail=0 rps=5.33 tok=750745 avg_score=79.5 types={'unit_conv': 1177, 'numeral': 1186, 'gravity': 1204, 'bit_ops': 1174, 'cipher': 1192, 'symbol': 167}
+  ** Checkpoint saved (6600 rows)
+  [6120/7621] ok=6620 fail=0 rps=5.33 tok=753101 avg_score=79.5 types={'unit_conv': 1181, 'numeral': 1190, 'gravity': 1207, 'bit_ops': 1177, 'cipher': 1197, 'symbol': 168}
+  [6140/7621] ok=6640 fail=0 rps=5.33 tok=755643 avg_score=79.5 types={'unit_conv': 1187, 'numeral': 1193, 'gravity': 1209, 'bit_ops': 1181, 'cipher': 1202, 'symbol': 168}
+  ** Checkpoint saved (6650 rows)
+  [6160/7621] ok=6660 fail=0 rps=5.33 tok=757996 avg_score=79.5 types={'unit_conv': 1190, 'numeral': 1197, 'gravity': 1216, 'bit_ops': 1185, 'cipher': 1203, 'symbol': 169}
+  [6180/7621] ok=6680 fail=0 rps=5.33 tok=760079 avg_score=79.5 types={'unit_conv': 1194, 'numeral': 1203, 'gravity': 1221, 'bit_ops': 1187, 'cipher': 1206, 'symbol': 169}
+  [6200/7621] ok=6700 fail=0 rps=5.33 tok=762995 avg_score=79.5 types={'unit_conv': 1196, 'numeral': 1207, 'gravity': 1227, 'bit_ops': 1191, 'cipher': 1210, 'symbol': 169}
+  ** Checkpoint saved (6700 rows)
+  [6220/7621] ok=6720 fail=0 rps=5.33 tok=766016 avg_score=79.5 types={'unit_conv': 1198, 'numeral': 1211, 'gravity': 1231, 'bit_ops': 1196, 'cipher': 1215, 'symbol': 169}
+  [6240/7621] ok=6740 fail=0 rps=5.33 tok=768766 avg_score=79.5 types={'unit_conv': 1200, 'numeral': 1214, 'gravity': 1237, 'bit_ops': 1201, 'cipher': 1218, 'symbol': 170}
+  ** Checkpoint saved (6750 rows)
+  [6260/7621] ok=6760 fail=0 rps=5.33 tok=770740 avg_score=79.5 types={'unit_conv': 1202, 'numeral': 1219, 'gravity': 1240, 'bit_ops': 1204, 'cipher': 1223, 'symbol': 172}
+  [6280/7621] ok=6780 fail=0 rps=5.33 tok=773128 avg_score=79.5 types={'unit_conv': 1209, 'numeral': 1222, 'gravity': 1242, 'bit_ops': 1208, 'cipher': 1227, 'symbol': 172}
+  [6300/7621] ok=6800 fail=0 rps=5.33 tok=775543 avg_score=79.5 types={'unit_conv': 1211, 'numeral': 1228, 'gravity': 1246, 'bit_ops': 1213, 'cipher': 1229, 'symbol': 173}
+  ** Checkpoint saved (6800 rows)
+  [6320/7621] ok=6820 fail=0 rps=5.34 tok=778033 avg_score=79.5 types={'unit_conv': 1214, 'numeral': 1232, 'gravity': 1249, 'bit_ops': 1218, 'cipher': 1231, 'symbol': 176}
+  [6340/7621] ok=6840 fail=0 rps=5.34 tok=780713 avg_score=79.5 types={'unit_conv': 1219, 'numeral': 1233, 'gravity': 1254, 'bit_ops': 1223, 'cipher': 1234, 'symbol': 177}
+  ** Checkpoint saved (6850 rows)
+  [6360/7621] ok=6860 fail=0 rps=5.34 tok=782841 avg_score=79.5 types={'unit_conv': 1221, 'numeral': 1240, 'gravity': 1260, 'bit_ops': 1227, 'cipher': 1235, 'symbol': 177}
+  [6380/7621] ok=6880 fail=0 rps=5.34 tok=785578 avg_score=79.5 types={'unit_conv': 1227, 'numeral': 1243, 'gravity': 1261, 'bit_ops': 1230, 'cipher': 1242, 'symbol': 177}
+  [6400/7621] ok=6900 fail=0 rps=5.34 tok=787646 avg_score=79.5 types={'unit_conv': 1232, 'numeral': 1248, 'gravity': 1266, 'bit_ops': 1232, 'cipher': 1245, 'symbol': 177}
+  ** Checkpoint saved (6900 rows)
+  [6420/7621] ok=6920 fail=0 rps=5.34 tok=789684 avg_score=79.5 types={'unit_conv': 1239, 'numeral': 1253, 'gravity': 1267, 'bit_ops': 1236, 'cipher': 1248, 'symbol': 177}
+  [6440/7621] ok=6940 fail=0 rps=5.34 tok=792134 avg_score=79.5 types={'unit_conv': 1241, 'numeral': 1257, 'gravity': 1271, 'bit_ops': 1239, 'cipher': 1254, 'symbol': 178}
+  ** Checkpoint saved (6950 rows)
+  [6460/7621] ok=6960 fail=0 rps=5.34 tok=794059 avg_score=79.5 types={'unit_conv': 1245, 'numeral': 1264, 'gravity': 1273, 'bit_ops': 1244, 'cipher': 1255, 'symbol': 179}
+  [6480/7621] ok=6980 fail=0 rps=5.34 tok=796788 avg_score=79.5 types={'unit_conv': 1247, 'numeral': 1267, 'gravity': 1277, 'bit_ops': 1249, 'cipher': 1259, 'symbol': 181}
+  [6500/7621] ok=7000 fail=0 rps=5.34 tok=798984 avg_score=79.5 types={'unit_conv': 1251, 'numeral': 1270, 'gravity': 1281, 'bit_ops': 1253, 'cipher': 1261, 'symbol': 184}
+  ** Checkpoint saved (7000 rows)
+  [6520/7621] ok=7020 fail=0 rps=5.35 tok=801809 avg_score=79.5 types={'unit_conv': 1253, 'numeral': 1273, 'gravity': 1283, 'bit_ops': 1258, 'cipher': 1267, 'symbol': 186}
+  [6540/7621] ok=7040 fail=0 rps=5.35 tok=804199 avg_score=79.5 types={'unit_conv': 1258, 'numeral': 1279, 'gravity': 1283, 'bit_ops': 1264, 'cipher': 1269, 'symbol': 187}
+  ** Checkpoint saved (7050 rows)
+  [6560/7621] ok=7060 fail=0 rps=5.35 tok=806181 avg_score=79.5 types={'unit_conv': 1263, 'numeral': 1284, 'gravity': 1287, 'bit_ops': 1267, 'cipher': 1272, 'symbol': 187}
+  [6580/7621] ok=7080 fail=0 rps=5.35 tok=808487 avg_score=79.5 types={'unit_conv': 1265, 'numeral': 1289, 'gravity': 1291, 'bit_ops': 1269, 'cipher': 1279, 'symbol': 187}
+  [6600/7621] ok=7100 fail=0 rps=5.35 tok=811063 avg_score=79.5 types={'unit_conv': 1269, 'numeral': 1293, 'gravity': 1295, 'bit_ops': 1274, 'cipher': 1281, 'symbol': 188}
+  ** Checkpoint saved (7100 rows)
+  [6620/7621] ok=7120 fail=0 rps=5.36 tok=813419 avg_score=79.5 types={'unit_conv': 1271, 'numeral': 1298, 'gravity': 1298, 'bit_ops': 1276, 'cipher': 1289, 'symbol': 188}
+  [6640/7621] ok=7140 fail=0 rps=5.36 tok=816021 avg_score=79.5 types={'unit_conv': 1275, 'numeral': 1302, 'gravity': 1299, 'bit_ops': 1280, 'cipher': 1294, 'symbol': 190}
+  ** Checkpoint saved (7150 rows)
+  [6660/7621] ok=7160 fail=0 rps=5.36 tok=818574 avg_score=79.5 types={'unit_conv': 1280, 'numeral': 1304, 'gravity': 1302, 'bit_ops': 1284, 'cipher': 1299, 'symbol': 191}
+  [6680/7621] ok=7180 fail=0 rps=5.36 tok=821446 avg_score=79.5 types={'unit_conv': 1285, 'numeral': 1307, 'gravity': 1304, 'bit_ops': 1288, 'cipher': 1305, 'symbol': 191}
+  [6700/7621] ok=7200 fail=0 rps=5.36 tok=824172 avg_score=79.5 types={'unit_conv': 1289, 'numeral': 1310, 'gravity': 1309, 'bit_ops': 1293, 'cipher': 1308, 'symbol': 191}
+  ** Checkpoint saved (7200 rows)
+  [6720/7621] ok=7220 fail=0 rps=5.36 tok=826593 avg_score=79.5 types={'unit_conv': 1290, 'numeral': 1318, 'gravity': 1310, 'bit_ops': 1299, 'cipher': 1312, 'symbol': 191}
+  [6740/7621] ok=7240 fail=0 rps=5.36 tok=829125 avg_score=79.5 types={'unit_conv': 1292, 'numeral': 1321, 'gravity': 1317, 'bit_ops': 1302, 'cipher': 1317, 'symbol': 191}
+  ** Checkpoint saved (7250 rows)
+  [6760/7621] ok=7260 fail=0 rps=5.36 tok=831202 avg_score=79.5 types={'unit_conv': 1292, 'numeral': 1327, 'gravity': 1326, 'bit_ops': 1304, 'cipher': 1319, 'symbol': 192}
+  [6780/7621] ok=7280 fail=0 rps=5.36 tok=834085 avg_score=79.5 types={'unit_conv': 1295, 'numeral': 1329, 'gravity': 1330, 'bit_ops': 1308, 'cipher': 1325, 'symbol': 193}
+  [6800/7621] ok=7300 fail=0 rps=5.36 tok=836824 avg_score=79.5 types={'unit_conv': 1299, 'numeral': 1333, 'gravity': 1334, 'bit_ops': 1312, 'cipher': 1329, 'symbol': 193}
+  ** Checkpoint saved (7300 rows)
+  [6820/7621] ok=7320 fail=0 rps=5.36 tok=839440 avg_score=79.5 types={'unit_conv': 1303, 'numeral': 1336, 'gravity': 1338, 'bit_ops': 1317, 'cipher': 1332, 'symbol': 194}
+  [6840/7621] ok=7340 fail=0 rps=5.37 tok=842624 avg_score=79.5 types={'unit_conv': 1306, 'numeral': 1339, 'gravity': 1342, 'bit_ops': 1325, 'cipher': 1333, 'symbol': 195}
+  ** Checkpoint saved (7350 rows)
+  [6860/7621] ok=7360 fail=0 rps=5.36 tok=844808 avg_score=79.5 types={'unit_conv': 1312, 'numeral': 1346, 'gravity': 1342, 'bit_ops': 1330, 'cipher': 1334, 'symbol': 196}
+  [6880/7621] ok=7380 fail=0 rps=5.36 tok=848022 avg_score=79.5 types={'unit_conv': 1314, 'numeral': 1349, 'gravity': 1346, 'bit_ops': 1336, 'cipher': 1338, 'symbol': 197}
+  [6900/7621] ok=7400 fail=0 rps=5.36 tok=851303 avg_score=79.5 types={'unit_conv': 1316, 'numeral': 1353, 'gravity': 1349, 'bit_ops': 1344, 'cipher': 1340, 'symbol': 198}
+  ** Checkpoint saved (7400 rows)
+  [6920/7621] ok=7420 fail=0 rps=5.36 tok=853949 avg_score=79.5 types={'unit_conv': 1320, 'numeral': 1355, 'gravity': 1356, 'bit_ops': 1348, 'cipher': 1343, 'symbol': 198}
+  [6940/7621] ok=7440 fail=0 rps=5.37 tok=855992 avg_score=79.5 types={'unit_conv': 1326, 'numeral': 1358, 'gravity': 1361, 'bit_ops': 1352, 'cipher': 1344, 'symbol': 199}
+  ** Checkpoint saved (7450 rows)
+  [6960/7621] ok=7460 fail=0 rps=5.37 tok=858656 avg_score=79.5 types={'unit_conv': 1330, 'numeral': 1363, 'gravity': 1364, 'bit_ops': 1356, 'cipher': 1348, 'symbol': 199}
+  [6980/7621] ok=7480 fail=0 rps=5.37 tok=861414 avg_score=79.5 types={'unit_conv': 1334, 'numeral': 1366, 'gravity': 1369, 'bit_ops': 1361, 'cipher': 1351, 'symbol': 199}
+  [7000/7621] ok=7500 fail=0 rps=5.37 tok=863789 avg_score=79.5 types={'unit_conv': 1343, 'numeral': 1367, 'gravity': 1371, 'bit_ops': 1364, 'cipher': 1356, 'symbol': 199}
+  ** Checkpoint saved (7500 rows)
+  [7020/7621] ok=7520 fail=0 rps=5.37 tok=865855 avg_score=79.5 types={'unit_conv': 1350, 'numeral': 1370, 'gravity': 1373, 'bit_ops': 1367, 'cipher': 1361, 'symbol': 199}
+  [7040/7621] ok=7540 fail=0 rps=5.38 tok=867983 avg_score=79.5 types={'unit_conv': 1354, 'numeral': 1374, 'gravity': 1377, 'bit_ops': 1370, 'cipher': 1365, 'symbol': 200}
+  ** Checkpoint saved (7550 rows)
+  [7060/7621] ok=7560 fail=0 rps=5.38 tok=870315 avg_score=79.5 types={'unit_conv': 1360, 'numeral': 1377, 'gravity': 1380, 'bit_ops': 1374, 'cipher': 1368, 'symbol': 201}
+  [7080/7621] ok=7580 fail=0 rps=5.38 tok=872911 avg_score=79.5 types={'unit_conv': 1367, 'numeral': 1380, 'gravity': 1381, 'bit_ops': 1379, 'cipher': 1372, 'symbol': 201}
+  [7100/7621] ok=7600 fail=0 rps=5.38 tok=875333 avg_score=79.5 types={'unit_conv': 1374, 'numeral': 1382, 'gravity': 1385, 'bit_ops': 1384, 'cipher': 1374, 'symbol': 201}
+  ** Checkpoint saved (7600 rows)
+  [7120/7621] ok=7620 fail=0 rps=5.38 tok=878007 avg_score=79.5 types={'unit_conv': 1382, 'numeral': 1384, 'gravity': 1387, 'bit_ops': 1388, 'cipher': 1378, 'symbol': 201}
+  [7140/7621] ok=7640 fail=0 rps=5.38 tok=880440 avg_score=79.5 types={'unit_conv': 1386, 'numeral': 1388, 'gravity': 1391, 'bit_ops': 1393, 'cipher': 1381, 'symbol': 201}
+  ** Checkpoint saved (7650 rows)
+  [7160/7621] ok=7660 fail=0 rps=5.38 tok=882546 avg_score=79.5 types={'unit_conv': 1389, 'numeral': 1395, 'gravity': 1393, 'bit_ops': 1394, 'cipher': 1388, 'symbol': 201}
+  [7180/7621] ok=7680 fail=0 rps=5.38 tok=884780 avg_score=79.5 types={'unit_conv': 1393, 'numeral': 1397, 'gravity': 1398, 'bit_ops': 1396, 'cipher': 1394, 'symbol': 202}
+  [7200/7621] ok=7700 fail=0 rps=5.38 tok=887284 avg_score=79.5 types={'unit_conv': 1397, 'numeral': 1398, 'gravity': 1402, 'bit_ops': 1400, 'cipher': 1398, 'symbol': 205}
+  ** Checkpoint saved (7700 rows)
+  [7220/7621] ok=7720 fail=0 rps=5.39 tok=890630 avg_score=79.5 types={'unit_conv': 1400, 'numeral': 1401, 'gravity': 1406, 'bit_ops': 1407, 'cipher': 1400, 'symbol': 206}
+  [7240/7621] ok=7740 fail=0 rps=5.39 tok=892582 avg_score=79.5 types={'unit_conv': 1409, 'numeral': 1404, 'gravity': 1409, 'bit_ops': 1411, 'cipher': 1401, 'symbol': 206}
+  ** Checkpoint saved (7750 rows)
+  [7260/7621] ok=7760 fail=0 rps=5.39 tok=895129 avg_score=79.5 types={'unit_conv': 1412, 'numeral': 1407, 'gravity': 1413, 'bit_ops': 1415, 'cipher': 1406, 'symbol': 207}
+  [7280/7621] ok=7780 fail=0 rps=5.39 tok=898536 avg_score=79.5 types={'unit_conv': 1418, 'numeral': 1410, 'gravity': 1414, 'bit_ops': 1424, 'cipher': 1407, 'symbol': 207}
+  [7300/7621] ok=7800 fail=0 rps=5.39 tok=901542 avg_score=79.5 types={'unit_conv': 1422, 'numeral': 1411, 'gravity': 1419, 'bit_ops': 1429, 'cipher': 1412, 'symbol': 207}
+  ** Checkpoint saved (7800 rows)
+  [7320/7621] ok=7820 fail=0 rps=5.39 tok=903659 avg_score=79.5 types={'unit_conv': 1425, 'numeral': 1415, 'gravity': 1425, 'bit_ops': 1430, 'cipher': 1418, 'symbol': 207}
+  [7340/7621] ok=7840 fail=0 rps=5.39 tok=906048 avg_score=79.5 types={'unit_conv': 1428, 'numeral': 1419, 'gravity': 1429, 'bit_ops': 1432, 'cipher': 1425, 'symbol': 207}
+  ** Checkpoint saved (7850 rows)
+  [7360/7621] ok=7860 fail=0 rps=5.39 tok=908822 avg_score=79.5 types={'unit_conv': 1430, 'numeral': 1424, 'gravity': 1431, 'bit_ops': 1436, 'cipher': 1431, 'symbol': 208}
+  [7380/7621] ok=7880 fail=0 rps=5.40 tok=910650 avg_score=79.5 types={'unit_conv': 1435, 'numeral': 1427, 'gravity': 1435, 'bit_ops': 1437, 'cipher': 1436, 'symbol': 210}
+  [7400/7621] ok=7900 fail=0 rps=5.40 tok=913041 avg_score=79.5 types={'unit_conv': 1438, 'numeral': 1432, 'gravity': 1439, 'bit_ops': 1440, 'cipher': 1441, 'symbol': 210}
+  ** Checkpoint saved (7900 rows)
+  [7420/7621] ok=7920 fail=0 rps=5.40 tok=915385 avg_score=79.5 types={'unit_conv': 1443, 'numeral': 1436, 'gravity': 1442, 'bit_ops': 1445, 'cipher': 1443, 'symbol': 211}
+  [7440/7621] ok=7940 fail=0 rps=5.40 tok=917083 avg_score=79.5 types={'unit_conv': 1447, 'numeral': 1443, 'gravity': 1445, 'bit_ops': 1448, 'cipher': 1445, 'symbol': 212}
+  ** Checkpoint saved (7950 rows)
+  [7460/7621] ok=7960 fail=0 rps=5.40 tok=919538 avg_score=79.5 types={'unit_conv': 1451, 'numeral': 1446, 'gravity': 1450, 'bit_ops': 1450, 'cipher': 1451, 'symbol': 212}
+  [7480/7621] ok=7980 fail=0 rps=5.40 tok=921924 avg_score=79.5 types={'unit_conv': 1454, 'numeral': 1452, 'gravity': 1455, 'bit_ops': 1454, 'cipher': 1453, 'symbol': 212}
+  [7500/7621] ok=8000 fail=0 rps=5.41 tok=924678 avg_score=79.5 types={'unit_conv': 1456, 'numeral': 1455, 'gravity': 1459, 'bit_ops': 1459, 'cipher': 1458, 'symbol': 213}
+  ** Checkpoint saved (8000 rows)
+  [7520/7621] ok=8020 fail=0 rps=5.40 tok=927514 avg_score=79.5 types={'unit_conv': 1460, 'numeral': 1457, 'gravity': 1463, 'bit_ops': 1463, 'cipher': 1464, 'symbol': 213}
+  [7540/7621] ok=8040 fail=0 rps=5.41 tok=929674 avg_score=79.5 types={'unit_conv': 1462, 'numeral': 1464, 'gravity': 1468, 'bit_ops': 1467, 'cipher': 1466, 'symbol': 213}
+  ** Checkpoint saved (8050 rows)
+  [7560/7621] ok=8060 fail=0 rps=5.41 tok=932510 avg_score=79.5 types={'unit_conv': 1464, 'numeral': 1469, 'gravity': 1473, 'bit_ops': 1473, 'cipher': 1468, 'symbol': 213}
+  [7580/7621] ok=8080 fail=0 rps=5.41 tok=934243 avg_score=79.5 types={'unit_conv': 1468, 'numeral': 1473, 'gravity': 1478, 'bit_ops': 1473, 'cipher': 1473, 'symbol': 215}
+  [7600/7621] ok=8100 fail=0 rps=5.41 tok=936951 avg_score=79.5 types={'unit_conv': 1470, 'numeral': 1477, 'gravity': 1482, 'bit_ops': 1478, 'cipher': 1477, 'symbol': 216}
+  ** Checkpoint saved (8100 rows)
+  [7620/7621] ok=8120 fail=0 rps=5.40 tok=940318 avg_score=79.5 types={'unit_conv': 1472, 'numeral': 1478, 'gravity': 1486, 'bit_ops': 1484, 'cipher': 1484, 'symbol': 216}
+  [7621/7621] ok=8121 fail=0 rps=5.40 tok=940593 avg_score=79.5 types={'unit_conv': 1472, 'numeral': 1478, 'gravity': 1486, 'bit_ops': 1485, 'cipher': 1484, 'symbol': 216}
+
+============================================================
+DONE in 1412s (23.5min)
+Success: 8121, Failed: 0, Total tokens: 940593
+Avg score: 74.6
+Output: /Users/hastws/work_space/NVIDIA Nemotron 模型推理挑战赛/scripts/../data/train_dsl_rules.jsonl
+CSV: /Users/hastws/work_space/NVIDIA Nemotron 模型推理挑战赛/scripts/../data/train_dsl_rules.csv

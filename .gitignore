@@ -1,0 +1,37 @@
+# OS / editor
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Python envs
+.venv/
+venv/
+env/
+
+# Heavy / generated artifacts (do NOT commit to git)
+tonghuikang_repo/
+tonghuikang_nemotron.tar.gz
+offline_packages/
+*.tar.gz
+*.zip
+*.whl
+
+
+# Large data directories (too big for GitHub, source from Kaggle datasets)
+data/
+data_archive/
+tonghuikang_data/
+tonghuikang_enhanced/
+pydeps/
+# Kaggle cache (downloaded datasets & offline packages — 18GB+)
+kaggle_input/
+kaggle_upload/
+adapter_output/
+
+# Large data outputs
+competition_data/tonghuikang_full/
+**/*.safetensors
+**/*.bin
+**/*.pt

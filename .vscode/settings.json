@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd \"/Users/hastws/work_space/NVIDIA Nemotron 模型推理挑战赛\" && python3 -c \"\nfrom huggingface_hub import hf_hub_download\nimport json\n\n# Download tokenizer_config\\.json which contains chat_template\npath = hf_hub_download\\(\n    repo_id='nvidia/Nemotron-3-Nano-30B-A3B-BF16',\n    filename='tokenizer_config\\.json',\n    local_dir='/tmp/nemotron_tokenizer'\n\\)\nprint\\(f'Downloaded to: \\{path\\}'\\)\n\ncfg = json\\.load\\(open\\(path\\)\\)\nprint\\(f'Keys: \\{list\\(cfg\\.keys\\(\\)\\)\\}'\\)\nif 'chat_template' in cfg:\n    ct = cfg\\['chat_template'\\]\n    if isinstance\\(ct, list\\):\n        for item in ct:\n            print\\(f'Template name: \\{item\\.get\\(\\\\\"name\\\\\", \\\\\"default\\\\\"\\)\\}'\\)\n            print\\(f'Template length: \\{len\\(item\\.get\\(\\\\\"template\\\\\", \\\\\"\\\\\"\\)\\)\\} chars'\\)\n    else:\n        print\\(f'Template type: \\{type\\(ct\\)\\}, length: \\{len\\(ct\\)\\} chars'\\)\n\" 2>&1$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

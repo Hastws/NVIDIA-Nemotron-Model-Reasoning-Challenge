@@ -1,0 +1,29 @@
+{
+  "id": "hastws/nvidia-nemotron-sfttrainer-training",
+  "title": "NVIDIA Nemotron - SFTTrainer training",
+  "code_file": "nvidia-nemotron-2stage-sft.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "hastws/prog-cot-training-data",
+    "dennisfong/nvidia-nemotron-offline-packages",
+    "hastws/sft-offline-packages"
+  ],
+  "kernel_sources": [
+    "ryanholbrook/nvidia-utility-script"
+  ],
+  "competition_sources": [
+    "nvidia-nemotron-model-reasoning-challenge"
+  ],
+  "model_sources": [
+    "metric/nemotron-3-nano-30b-a3b-bf16/Transformers/default/1"
+  ],
+  "docker_image_pinning_type": "original",
+  "docker_image_version_id": 31287,
+  "machine_shape": "NvidiaRtxPro6000"
+}

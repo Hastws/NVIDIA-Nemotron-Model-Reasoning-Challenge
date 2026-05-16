@@ -1,0 +1,64 @@
+{
+  "base": {
+    "accuracy": 0.0,
+    "correct": 0,
+    "total": 48,
+    "by_type": {
+      "bit_ops": {
+        "correct": 0,
+        "total": 8
+      },
+      "cipher": {
+        "correct": 0,
+        "total": 8
+      },
+      "gravity": {
+        "correct": 0,
+        "total": 8
+      },
+      "numeral": {
+        "correct": 0,
+        "total": 8
+      },
+      "symbol": {
+        "correct": 0,
+        "total": 8
+      },
+      "unit_conv": {
+        "correct": 0,
+        "total": 8
+      }
+    }
+  },
+  "stage1": {
+    "accuracy": 0.10416666666666667,
+    "correct": 5,
+    "total": 48,
+    "by_type": {
+      "bit_ops": {
+        "correct": 0,
+        "total": 8
+      },
+      "cipher": {
+        "correct": 0,
+        "total": 8
+      },
+      "gravity": {
+        "correct": 0,
+        "total": 8
+      },
+      "numeral": {
+        "correct": 5,
+        "total": 8
+      },
+      "symbol": {
+        "correct": 0,
+        "total": 8
+      },
+      "unit_conv": {
+        "correct": 0,
+        "total": 8
+      }
+    }
+  }
+}

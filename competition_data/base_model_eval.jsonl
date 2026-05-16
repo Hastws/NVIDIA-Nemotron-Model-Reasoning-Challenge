@@ -1,0 +1,301 @@
+{"id": "06698d4e", "type": "bit_ops", "correct": true, "predicted": "00110010", "gold": "00110010", "finish_reason": "stop", "error": null, "content_len": 16, "thinking_len": 3427}
+{"id": "d25d3b5f", "type": "bit_ops", "correct": true, "predicted": "11100011", "gold": "11100011", "finish_reason": "stop", "error": null, "content_len": 22, "thinking_len": 16242}
+{"id": "24232d07", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "01010101", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 17018}
+{"id": "2dc6056a", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "11000001", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 17249}
+{"id": "51007339", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "10001110", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 16514}
+{"id": "499c7735", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "10011001", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 15950}
+{"id": "f2a167e5", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "10101110", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 17167}
+{"id": "5a1179ee", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "10000101", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 16626}
+{"id": "f05dc9a6", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "00001100", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 17346}
+{"id": "1c19ad3e", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "00100100", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 19949}
+{"id": "20924dd4", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "10110000", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 17061}
+{"id": "dde0558e", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "00011000", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 18056}
+{"id": "f24b8bee", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "11011000", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 18026}
+{"id": "c113055a", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "00010100", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 17477}
+{"id": "08615ada", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "11101111", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 18543}
+{"id": "b4549ab9", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "10110011", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 17931}
+{"id": "88872de7", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "00000010", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 15779}
+{"id": "1deaf759", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "10100111", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 17577}
+{"id": "07e8cf66", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "10010110", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 16692}
+{"id": "47720c17", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "10001110", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 16486}
+{"id": "c536c44c", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "01000101", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 16329}
+{"id": "06b5da9f", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "00011010", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 16936}
+{"id": "4c8182b0", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "10001100", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 18579}
+{"id": "a7dcc027", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "01011011", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 18001}
+{"id": "b91855fd", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "00110000", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 16076}
+{"id": "ea0deb13", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "01110100", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 16990}
+{"id": "e67cbe88", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "11010111", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 16729}
+{"id": "400c9250", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "01001110", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 20546}
+{"id": "d547f717", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "00000000", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 16729}
+{"id": "8785d0c3", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "00000000", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 15222}
+{"id": "8fa7ea3a", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "01000001", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 18193}
+{"id": "48db5ccf", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "01101110", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 17922}
+{"id": "c095f799", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "10011111", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 17210}
+{"id": "5b16b484", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "10010000", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 16641}
+{"id": "01e09228", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "10010101", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 18117}
+{"id": "f85074ab", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "00001010", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 18486}
+{"id": "33e4e9ec", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "00110001", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 15917}
+{"id": "e5bb9b26", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "11110001", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 16086}
+{"id": "32e5fe87", "type": "bit_ops", "correct": true, "predicted": "00000000", "gold": "00000000", "finish_reason": "stop", "error": null, "content_len": 16, "thinking_len": 13428}
+{"id": "88ae9960", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "00000000", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 18326}
+{"id": "46ae00b4", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "11100010", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 16284}
+{"id": "1da4f2db", "type": "bit_ops", "correct": true, "predicted": "01100111", "gold": "01100111", "finish_reason": "stop", "error": null, "content_len": 16, "thinking_len": 11689}
+{"id": "6eb0d262", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "00111011", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 20278}
+{"id": "6dbd9643", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "10001011", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 17560}
+{"id": "f9c59b61", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "01001011", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 18991}
+{"id": "f4470b02", "type": "cipher", "correct": false, "predicted": "the\\ hidden\\ hatter\\ writes", "gold": "the hidden hatter writes", "finish_reason": "stop", "error": null, "content_len": 35, "thinking_len": 8524}
+{"id": "1f6c2fd9", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "00000000", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 16587}
+{"id": "751d48a2", "type": "bit_ops", "correct": true, "predicted": "00100000", "gold": "00100000", "finish_reason": "stop", "error": null, "content_len": 534, "thinking_len": 13106}
+{"id": "7b107eec", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "10110101", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 16596}
+{"id": "55d86f7e", "type": "cipher", "correct": true, "predicted": "student discovers the secret door", "gold": "student discovers the secret door", "finish_reason": "stop", "error": null, "content_len": 41, "thinking_len": 16727}
+{"id": "709930e0", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "10011010", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 16285}
+{"id": "2891395e", "type": "cipher", "correct": true, "predicted": "teacher reads mirror", "gold": "teacher reads mirror", "finish_reason": "stop", "error": null, "content_len": 28, "thinking_len": 7027}
+{"id": "0e25b790", "type": "cipher", "correct": true, "predicted": "the secret king follows", "gold": "the secret king follows", "finish_reason": "stop", "error": null, "content_len": 31, "thinking_len": 21338}
+{"id": "18962913", "type": "cipher", "correct": true, "predicted": "cat watches the magical castle", "gold": "cat watches the magical castle", "finish_reason": "stop", "error": null, "content_len": 38, "thinking_len": 6747}
+{"id": "c5872355", "type": "bit_ops", "correct": false, "predicted": "NOT_FOUND", "gold": "01011001", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 16294}
+{"id": "b48ff026", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "the wise princess sees", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 21578}
+{"id": "9c0ae448", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "the secret princess follows", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 23061}
+{"id": "7f4eb498", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "mouse dreams the golden potion", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 23561}
+{"id": "b83b999a", "type": "cipher", "correct": true, "predicted": "the silver mouse draws", "gold": "the silver mouse draws", "finish_reason": "stop", "error": null, "content_len": 30, "thinking_len": 16679}
+{"id": "ccd5baec", "type": "cipher", "correct": false, "predicted": "the\\ clever\\ hatter\\ chases", "gold": "the clever hatter chases", "finish_reason": "stop", "error": null, "content_len": 41, "thinking_len": 13119}
+{"id": "cf821623", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "turtle writes door", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 23921}
+{"id": "eb6a20e4", "type": "cipher", "correct": false, "predicted": "dragon\\ chases\\ inside\\ cave", "gold": "dragon chases inside cave", "finish_reason": "stop", "error": null, "content_len": 42, "thinking_len": 11234}
+{"id": "beed9a93", "type": "cipher", "correct": true, "predicted": "the strange cat explores", "gold": "the strange cat explores", "finish_reason": "stop", "error": null, "content_len": 32, "thinking_len": 9526}
+{"id": "79c84e68", "type": "cipher", "correct": true, "predicted": "mouse sees the magical crystal", "gold": "mouse sees the magical crystal", "finish_reason": "stop", "error": null, "content_len": 38, "thinking_len": 21050}
+{"id": "5ef42242", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "mouse creates beyond palace", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 23676}
+{"id": "db88075e", "type": "cipher", "correct": true, "predicted": "bird found the silver message", "gold": "bird found the silver message", "finish_reason": "stop", "error": null, "content_len": 37, "thinking_len": 16067}
+{"id": "1528c054", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "student found the silver crystal", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 24996}
+{"id": "41dc6441", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "hatter found beyond palace", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 24849}
+{"id": "4c7ed129", "type": "cipher", "correct": true, "predicted": "the curious student chases", "gold": "the curious student chases", "finish_reason": "stop", "error": null, "content_len": 34, "thinking_len": 19747}
+{"id": "0fa2efa8", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "queen follows the dark key", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 24307}
+{"id": "5e1de0ad", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "mouse studies key", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 25721}
+{"id": "d1c8d740", "type": "cipher", "correct": true, "predicted": "hatter writes the mysterious map", "gold": "hatter writes the mysterious map", "finish_reason": "stop", "error": null, "content_len": 40, "thinking_len": 10522}
+{"id": "4db54201", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "turtle reads story", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 22929}
+{"id": "190b9dad", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "rabbit studies the colorful crystal", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 25204}
+{"id": "1fa37461", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "student reads the golden treasure", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 19902}
+{"id": "99693c43", "type": "cipher", "correct": false, "predicted": "the ancient house follows", "gold": "the ancient mouse follows", "finish_reason": "stop", "error": null, "content_len": 33, "thinking_len": 14990}
+{"id": "7f676cdc", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "alice studies the strange map", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 23753}
+{"id": "7a9561b2", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "wizard sees near cave", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 22295}
+{"id": "5a3cbc28", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "cat watches inside village", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 23602}
+{"id": "3661796c", "type": "cipher", "correct": false, "predicted": "the\\ wise\\ bird\\ creates", "gold": "the wise bird creates", "finish_reason": "stop", "error": null, "content_len": 32, "thinking_len": 23447}
+{"id": "487bcdac", "type": "cipher", "correct": true, "predicted": "the mysterious hatter draws", "gold": "the mysterious hatter draws", "finish_reason": "stop", "error": null, "content_len": 35, "thinking_len": 17821}
+{"id": "5658dd8a", "type": "cipher", "correct": true, "predicted": "rabbit writes beyond forest", "gold": "rabbit writes beyond forest", "finish_reason": "stop", "error": null, "content_len": 35, "thinking_len": 12231}
+{"id": "7cfeb16a", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "turtle watches near valley", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 23444}
+{"id": "782e9e0f", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "rabbit creates the colorful puzzle", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 23731}
+{"id": "e28a9676", "type": "cipher", "correct": true, "predicted": "bird imagines the bright garden", "gold": "bird imagines the bright garden", "finish_reason": "stop", "error": null, "content_len": 39, "thinking_len": 9099}
+{"id": "dedce87a", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "wizard dreams puzzle", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 23612}
+{"id": "c88eca54", "type": "cipher", "correct": true, "predicted": "teacher watches the wise crystal", "gold": "teacher watches the wise crystal", "finish_reason": "stop", "error": null, "content_len": 40, "thinking_len": 10996}
+{"id": "ea670351", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "princess follows key", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 24296}
+{"id": "50f2caf4", "type": "cipher", "correct": true, "predicted": "dragon draws in valley", "gold": "dragon draws in valley", "finish_reason": "stop", "error": null, "content_len": 30, "thinking_len": 6194}
+{"id": "36727ff6", "type": "cipher", "correct": true, "predicted": "mouse explores the secret puzzle", "gold": "mouse explores the secret puzzle", "finish_reason": "stop", "error": null, "content_len": 40, "thinking_len": 8215}
+{"id": "d6ecc2c7", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "king found the hidden key", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 23893}
+{"id": "b3af6a44", "type": "cipher", "correct": false, "predicted": "the clever alice ready", "gold": "the clever alice reads", "finish_reason": "stop", "error": null, "content_len": 30, "thinking_len": 19780}
+{"id": "15d1668d", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "the mysterious hatter explores", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 23814}
+{"id": "f42d5e08", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "king discovers the ancient door", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 24910}
+{"id": "d1611217", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "dragon follows beyond mountain", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 22042}
+{"id": "b5c56f58", "type": "gravity", "correct": true, "predicted": "58.19", "gold": "58.18", "finish_reason": "stop", "error": null, "content_len": 19, "thinking_len": 2591}
+{"id": "e1a8087e", "type": "gravity", "correct": false, "predicted": "72.68\\ \\text{m", "gold": "72.7", "finish_reason": "stop", "error": null, "content_len": 720, "thinking_len": 4396}
+{"id": "39470bbb", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "the colorful queen explores", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 23284}
+{"id": "9ca96a88", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "dragon reads the strange treasure", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 24350}
+{"id": "df2fd240", "type": "gravity", "correct": false, "predicted": "145.24\\ \\text{m", "gold": "145.29", "finish_reason": "stop", "error": null, "content_len": 914, "thinking_len": 3260}
+{"id": "7f5ff434", "type": "cipher", "correct": true, "predicted": "king creates castle", "gold": "king creates castle", "finish_reason": "stop", "error": null, "content_len": 27, "thinking_len": 15352}
+{"id": "684d50d4", "type": "gravity", "correct": true, "predicted": "50.39", "gold": "50.39", "finish_reason": "stop", "error": null, "content_len": 19, "thinking_len": 4216}
+{"id": "12368f5f", "type": "gravity", "correct": true, "predicted": "96.98", "gold": "97.01", "finish_reason": "stop", "error": null, "content_len": 19, "thinking_len": 1946}
+{"id": "fd38d6f0", "type": "gravity", "correct": true, "predicted": "52.17", "gold": "52.17", "finish_reason": "stop", "error": null, "content_len": 19, "thinking_len": 6699}
+{"id": "ff039a4e", "type": "gravity", "correct": true, "predicted": "84.6", "gold": "84.59", "finish_reason": "stop", "error": null, "content_len": 18, "thinking_len": 3545}
+{"id": "0b45cd22", "type": "gravity", "correct": true, "predicted": "64.6", "gold": "64.59", "finish_reason": "stop", "error": null, "content_len": 18, "thinking_len": 2548}
+{"id": "83428303", "type": "gravity", "correct": true, "predicted": "35.79", "gold": "35.79", "finish_reason": "stop", "error": null, "content_len": 777, "thinking_len": 2480}
+{"id": "d3bb9253", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "dragon chases under island", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 22494}
+{"id": "66b1cf74", "type": "gravity", "correct": true, "predicted": "18.21", "gold": "18.21", "finish_reason": "stop", "error": null, "content_len": 775, "thinking_len": 2384}
+{"id": "48ef22ca", "type": "gravity", "correct": false, "predicted": "103.57\\ \\text{m", "gold": "103.56", "finish_reason": "stop", "error": null, "content_len": 1021, "thinking_len": 4657}
+{"id": "5738dc2a", "type": "cipher", "correct": false, "predicted": "NOT_FOUND", "gold": "alice imagines treasure", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 25277}
+{"id": "4513f03e", "type": "gravity", "correct": true, "predicted": "110.12", "gold": "110.13", "finish_reason": "stop", "error": null, "content_len": 489, "thinking_len": 3355}
+{"id": "5657b059", "type": "gravity", "correct": false, "predicted": "58.70\\ \\text{m", "gold": "58.7", "finish_reason": "stop", "error": null, "content_len": 439, "thinking_len": 5167}
+{"id": "667e6f1a", "type": "gravity", "correct": false, "predicted": "91.08\\ \\text{m", "gold": "91.08", "finish_reason": "stop", "error": null, "content_len": 764, "thinking_len": 4240}
+{"id": "4724b23b", "type": "gravity", "correct": false, "predicted": "NOT_FOUND", "gold": "7.75", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 12351}
+{"id": "44c71228", "type": "gravity", "correct": true, "predicted": "146.3", "gold": "146.33", "finish_reason": "stop", "error": null, "content_len": 265, "thinking_len": 5541}
+{"id": "d3552bf9", "type": "gravity", "correct": true, "predicted": "11.02", "gold": "11.02", "finish_reason": "stop", "error": null, "content_len": 526, "thinking_len": 1998}
+{"id": "14cfeac3", "type": "gravity", "correct": true, "predicted": "7.12", "gold": "7.12", "finish_reason": "stop", "error": null, "content_len": 12, "thinking_len": 6400}
+{"id": "b9fb3018", "type": "gravity", "correct": true, "predicted": "26.8", "gold": "26.81", "finish_reason": "stop", "error": null, "content_len": 273, "thinking_len": 6527}
+{"id": "815f4dc5", "type": "gravity", "correct": true, "predicted": "204.93", "gold": "204.94", "finish_reason": "stop", "error": null, "content_len": 817, "thinking_len": 2649}
+{"id": "a2ccba8c", "type": "gravity", "correct": true, "predicted": "117.00", "gold": "117.0", "finish_reason": "stop", "error": null, "content_len": 767, "thinking_len": 3186}
+{"id": "cfebd5f8", "type": "gravity", "correct": true, "predicted": "134.01", "gold": "134.0", "finish_reason": "stop", "error": null, "content_len": 376, "thinking_len": 3846}
+{"id": "2ea26a27", "type": "gravity", "correct": false, "predicted": "29.27\\ \\text{m", "gold": "29.27", "finish_reason": "stop", "error": null, "content_len": 691, "thinking_len": 2905}
+{"id": "557371be", "type": "gravity", "correct": true, "predicted": "85.86", "gold": "85.85", "finish_reason": "stop", "error": null, "content_len": 671, "thinking_len": 2260}
+{"id": "964c8468", "type": "gravity", "correct": true, "predicted": "100.72", "gold": "100.74", "finish_reason": "stop", "error": null, "content_len": 20, "thinking_len": 2474}
+{"id": "2d4d3fee", "type": "gravity", "correct": true, "predicted": "41.60", "gold": "41.62", "finish_reason": "stop", "error": null, "content_len": 314, "thinking_len": 2924}
+{"id": "ea99f092", "type": "gravity", "correct": true, "predicted": "95.1", "gold": "95.15", "finish_reason": "stop", "error": null, "content_len": 18, "thinking_len": 7469}
+{"id": "50070c1d", "type": "gravity", "correct": true, "predicted": "102.36", "gold": "102.41", "finish_reason": "stop", "error": null, "content_len": 426, "thinking_len": 3253}
+{"id": "5540e7c5", "type": "gravity", "correct": true, "predicted": "13.56", "gold": "13.56", "finish_reason": "stop", "error": null, "content_len": 656, "thinking_len": 1863}
+{"id": "f640c781", "type": "gravity", "correct": true, "predicted": "184.2", "gold": "184.19", "finish_reason": "stop", "error": null, "content_len": 19, "thinking_len": 2846}
+{"id": "aed8e748", "type": "gravity", "correct": false, "predicted": "28.42\\ \\text{m", "gold": "28.42", "finish_reason": "stop", "error": null, "content_len": 643, "thinking_len": 2192}
+{"id": "f607a27e", "type": "gravity", "correct": false, "predicted": "14.51\\ \\text{m", "gold": "14.52", "finish_reason": "stop", "error": null, "content_len": 485, "thinking_len": 4174}
+{"id": "b7b61c0b", "type": "gravity", "correct": true, "predicted": "32.58", "gold": "32.57", "finish_reason": "stop", "error": null, "content_len": 918, "thinking_len": 2876}
+{"id": "8c3ca7dc", "type": "gravity", "correct": true, "predicted": "26.56", "gold": "26.55", "finish_reason": "stop", "error": null, "content_len": 685, "thinking_len": 3736}
+{"id": "82be0b50", "type": "gravity", "correct": false, "predicted": "79.85\\ \\text{m", "gold": "79.86", "finish_reason": "stop", "error": null, "content_len": 819, "thinking_len": 3183}
+{"id": "a1048986", "type": "gravity", "correct": true, "predicted": "51.55", "gold": "51.53", "finish_reason": "stop", "error": null, "content_len": 19, "thinking_len": 2607}
+{"id": "1d3a602c", "type": "gravity", "correct": true, "predicted": "121.90", "gold": "121.9", "finish_reason": "stop", "error": null, "content_len": 389, "thinking_len": 2318}
+{"id": "f907b099", "type": "gravity", "correct": true, "predicted": "41.54", "gold": "41.52", "finish_reason": "stop", "error": null, "content_len": 19, "thinking_len": 3453}
+{"id": "be7b3d06", "type": "gravity", "correct": true, "predicted": "49.13", "gold": "49.13", "finish_reason": "stop", "error": null, "content_len": 19, "thinking_len": 5142}
+{"id": "a5409e68", "type": "gravity", "correct": true, "predicted": "93.28", "gold": "93.27", "finish_reason": "stop", "error": null, "content_len": 19, "thinking_len": 7880}
+{"id": "0f614833", "type": "gravity", "correct": false, "predicted": "35.16\\ \\text{m", "gold": "35.18", "finish_reason": "stop", "error": null, "content_len": 805, "thinking_len": 2990}
+{"id": "7609c01e", "type": "gravity", "correct": true, "predicted": "42.53", "gold": "42.53", "finish_reason": "stop", "error": null, "content_len": 879, "thinking_len": 5068}
+{"id": "cb59c08c", "type": "gravity", "correct": false, "predicted": "112.52\\ \\text{m", "gold": "112.53", "finish_reason": "stop", "error": null, "content_len": 719, "thinking_len": 2064}
+{"id": "22151c0e", "type": "gravity", "correct": false, "predicted": "45.5\\ \\text{m", "gold": "45.53", "finish_reason": "stop", "error": null, "content_len": 849, "thinking_len": 2619}
+{"id": "c69a5a03", "type": "numeral", "correct": true, "predicted": "LVII", "gold": "LVII", "finish_reason": "stop", "error": null, "content_len": 12, "thinking_len": 677}
+{"id": "1538a909", "type": "numeral", "correct": true, "predicted": "LIII", "gold": "LIII", "finish_reason": "stop", "error": null, "content_len": 12, "thinking_len": 510}
+{"id": "dda3b85d", "type": "gravity", "correct": true, "predicted": "90.49", "gold": "90.49", "finish_reason": "stop", "error": null, "content_len": 19, "thinking_len": 3711}
+{"id": "80926ad7", "type": "numeral", "correct": true, "predicted": "XCVIII", "gold": "XCVIII", "finish_reason": "stop", "error": null, "content_len": 14, "thinking_len": 451}
+{"id": "31c04c70", "type": "gravity", "correct": false, "predicted": "78.27\\ \\text{m", "gold": "78.26", "finish_reason": "stop", "error": null, "content_len": 678, "thinking_len": 4075}
+{"id": "c65ab88f", "type": "numeral", "correct": true, "predicted": "LI", "gold": "LI", "finish_reason": "stop", "error": null, "content_len": 10, "thinking_len": 466}
+{"id": "9cd69c91", "type": "numeral", "correct": true, "predicted": "XIX", "gold": "XIX", "finish_reason": "stop", "error": null, "content_len": 11, "thinking_len": 336}
+{"id": "ad813fbb", "type": "numeral", "correct": true, "predicted": "XV", "gold": "XV", "finish_reason": "stop", "error": null, "content_len": 10, "thinking_len": 382}
+{"id": "8212d076", "type": "numeral", "correct": true, "predicted": "LVIII", "gold": "LVIII", "finish_reason": "stop", "error": null, "content_len": 13, "thinking_len": 382}
+{"id": "b4abe02a", "type": "numeral", "correct": true, "predicted": "XX", "gold": "XX", "finish_reason": "stop", "error": null, "content_len": 10, "thinking_len": 364}
+{"id": "03ed28b0", "type": "numeral", "correct": true, "predicted": "XCIV", "gold": "XCIV", "finish_reason": "stop", "error": null, "content_len": 12, "thinking_len": 304}
+{"id": "50b5296a", "type": "numeral", "correct": true, "predicted": "XCII", "gold": "XCII", "finish_reason": "stop", "error": null, "content_len": 12, "thinking_len": 552}
+{"id": "ef0e74cb", "type": "numeral", "correct": true, "predicted": "LXXXIV", "gold": "LXXXIV", "finish_reason": "stop", "error": null, "content_len": 14, "thinking_len": 490}
+{"id": "e0545ff2", "type": "numeral", "correct": true, "predicted": "LI", "gold": "LI", "finish_reason": "stop", "error": null, "content_len": 10, "thinking_len": 546}
+{"id": "25a2b86b", "type": "numeral", "correct": true, "predicted": "XXVII", "gold": "XXVII", "finish_reason": "stop", "error": null, "content_len": 13, "thinking_len": 947}
+{"id": "b03bd7fb", "type": "numeral", "correct": true, "predicted": "LIX", "gold": "LIX", "finish_reason": "stop", "error": null, "content_len": 11, "thinking_len": 464}
+{"id": "e0a4942d", "type": "numeral", "correct": true, "predicted": "LXXXII", "gold": "LXXXII", "finish_reason": "stop", "error": null, "content_len": 14, "thinking_len": 454}
+{"id": "fab4a4c1", "type": "numeral", "correct": true, "predicted": "XIV", "gold": "XIV", "finish_reason": "stop", "error": null, "content_len": 11, "thinking_len": 373}
+{"id": "bf40bc1d", "type": "gravity", "correct": true, "predicted": "50.06", "gold": "50.07", "finish_reason": "stop", "error": null, "content_len": 389, "thinking_len": 8312}
+{"id": "3419a4b1", "type": "gravity", "correct": true, "predicted": "129.92", "gold": "129.92", "finish_reason": "stop", "error": null, "content_len": 688, "thinking_len": 3547}
+{"id": "d4535e4a", "type": "numeral", "correct": true, "predicted": "XXI", "gold": "XXI", "finish_reason": "stop", "error": null, "content_len": 11, "thinking_len": 391}
+{"id": "24b1872e", "type": "numeral", "correct": true, "predicted": "XXV", "gold": "XXV", "finish_reason": "stop", "error": null, "content_len": 11, "thinking_len": 335}
+{"id": "ff650fc3", "type": "numeral", "correct": true, "predicted": "XXXVI", "gold": "XXXVI", "finish_reason": "stop", "error": null, "content_len": 13, "thinking_len": 570}
+{"id": "5db3cc44", "type": "numeral", "correct": true, "predicted": "XXVI", "gold": "XXVI", "finish_reason": "stop", "error": null, "content_len": 12, "thinking_len": 356}
+{"id": "91adf788", "type": "numeral", "correct": true, "predicted": "XCIII", "gold": "XCIII", "finish_reason": "stop", "error": null, "content_len": 13, "thinking_len": 425}
+{"id": "974343e1", "type": "numeral", "correct": true, "predicted": "XVIII", "gold": "XVIII", "finish_reason": "stop", "error": null, "content_len": 13, "thinking_len": 390}
+{"id": "70f4d114", "type": "numeral", "correct": true, "predicted": "XCIX", "gold": "XCIX", "finish_reason": "stop", "error": null, "content_len": 12, "thinking_len": 1335}
+{"id": "32082de7", "type": "numeral", "correct": true, "predicted": "LXXIX", "gold": "LXXIX", "finish_reason": "stop", "error": null, "content_len": 13, "thinking_len": 474}
+{"id": "0162e157", "type": "numeral", "correct": true, "predicted": "LII", "gold": "LII", "finish_reason": "stop", "error": null, "content_len": 11, "thinking_len": 544}
+{"id": "ef7fde0e", "type": "numeral", "correct": true, "predicted": "XXXIV", "gold": "XXXIV", "finish_reason": "stop", "error": null, "content_len": 13, "thinking_len": 452}
+{"id": "54fa42b9", "type": "numeral", "correct": true, "predicted": "LXIV", "gold": "LXIV", "finish_reason": "stop", "error": null, "content_len": 12, "thinking_len": 1816}
+{"id": "ee96930b", "type": "numeral", "correct": true, "predicted": "XXXIV", "gold": "XXXIV", "finish_reason": "stop", "error": null, "content_len": 13, "thinking_len": 379}
+{"id": "53d23bc8", "type": "numeral", "correct": true, "predicted": "XL", "gold": "XL", "finish_reason": "stop", "error": null, "content_len": 10, "thinking_len": 360}
+{"id": "fe13d2e7", "type": "numeral", "correct": true, "predicted": "XXIII", "gold": "XXIII", "finish_reason": "stop", "error": null, "content_len": 13, "thinking_len": 387}
+{"id": "3988440d", "type": "numeral", "correct": true, "predicted": "XCIV", "gold": "XCIV", "finish_reason": "stop", "error": null, "content_len": 12, "thinking_len": 468}
+{"id": "a6512f5b", "type": "numeral", "correct": true, "predicted": "LXXIII", "gold": "LXXIII", "finish_reason": "stop", "error": null, "content_len": 14, "thinking_len": 509}
+{"id": "233ba645", "type": "numeral", "correct": true, "predicted": "XCIX", "gold": "XCIX", "finish_reason": "stop", "error": null, "content_len": 12, "thinking_len": 371}
+{"id": "d3461858", "type": "numeral", "correct": true, "predicted": "XXIII", "gold": "XXIII", "finish_reason": "stop", "error": null, "content_len": 13, "thinking_len": 369}
+{"id": "607c2f7b", "type": "numeral", "correct": true, "predicted": "LIII", "gold": "LIII", "finish_reason": "stop", "error": null, "content_len": 12, "thinking_len": 378}
+{"id": "ca055f19", "type": "numeral", "correct": true, "predicted": "XXXVI", "gold": "XXXVI", "finish_reason": "stop", "error": null, "content_len": 13, "thinking_len": 428}
+{"id": "a766d285", "type": "numeral", "correct": true, "predicted": "LIV", "gold": "LIV", "finish_reason": "stop", "error": null, "content_len": 11, "thinking_len": 638}
+{"id": "41155960", "type": "numeral", "correct": true, "predicted": "LXX", "gold": "LXX", "finish_reason": "stop", "error": null, "content_len": 11, "thinking_len": 328}
+{"id": "cf49ae7a", "type": "numeral", "correct": true, "predicted": "XCVII", "gold": "XCVII", "finish_reason": "stop", "error": null, "content_len": 13, "thinking_len": 409}
+{"id": "2d248811", "type": "gravity", "correct": true, "predicted": "148.37", "gold": "148.37", "finish_reason": "stop", "error": null, "content_len": 20, "thinking_len": 8923}
+{"id": "3071e57b", "type": "numeral", "correct": true, "predicted": "XXXVII", "gold": "XXXVII", "finish_reason": "stop", "error": null, "content_len": 14, "thinking_len": 437}
+{"id": "33009b84", "type": "numeral", "correct": true, "predicted": "LXXXIV", "gold": "LXXXIV", "finish_reason": "stop", "error": null, "content_len": 14, "thinking_len": 428}
+{"id": "fe35c8c6", "type": "numeral", "correct": true, "predicted": "LXVI", "gold": "LXVI", "finish_reason": "stop", "error": null, "content_len": 12, "thinking_len": 374}
+{"id": "7dc95459", "type": "numeral", "correct": true, "predicted": "LI", "gold": "LI", "finish_reason": "stop", "error": null, "content_len": 10, "thinking_len": 443}
+{"id": "ae61350b", "type": "numeral", "correct": true, "predicted": "LXIII", "gold": "LXIII", "finish_reason": "stop", "error": null, "content_len": 13, "thinking_len": 443}
+{"id": "69bc7c1a", "type": "numeral", "correct": true, "predicted": "XIV", "gold": "XIV", "finish_reason": "stop", "error": null, "content_len": 11, "thinking_len": 261}
+{"id": "00600e6e", "type": "numeral", "correct": true, "predicted": "LXVII", "gold": "LXVII", "finish_reason": "stop", "error": null, "content_len": 13, "thinking_len": 415}
+{"id": "a292c7b0", "type": "numeral", "correct": true, "predicted": "XXXIII", "gold": "XXXIII", "finish_reason": "stop", "error": null, "content_len": 14, "thinking_len": 411}
+{"id": "b0bf8ae4", "type": "numeral", "correct": true, "predicted": "IV", "gold": "IV", "finish_reason": "stop", "error": null, "content_len": 10, "thinking_len": 1431}
+{"id": "05e780c4", "type": "numeral", "correct": true, "predicted": "III", "gold": "III", "finish_reason": "stop", "error": null, "content_len": 11, "thinking_len": 370}
+{"id": "c70056a7", "type": "numeral", "correct": true, "predicted": "XCVII", "gold": "XCVII", "finish_reason": "stop", "error": null, "content_len": 13, "thinking_len": 433}
+{"id": "bd8aa942", "type": "symbol", "correct": true, "predicted": "1881", "gold": "1881", "finish_reason": "stop", "error": null, "content_len": 169, "thinking_len": 3543}
+{"id": "27cec7a9", "type": "symbol", "correct": true, "predicted": "3341", "gold": "3341", "finish_reason": "stop", "error": null, "content_len": 18, "thinking_len": 6485}
+{"id": "8a345538", "type": "gravity", "correct": true, "predicted": "57.41", "gold": "57.42", "finish_reason": "stop", "error": null, "content_len": 19, "thinking_len": 8466}
+{"id": "51174a9d", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "[/<", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 32486}
+{"id": "67995540", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "|%@", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 30256}
+{"id": "51352792", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "`\"<`", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 28015}
+{"id": "7a422e17", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "%'!", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 28328}
+{"id": "1d10ccaf", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "<({&", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 28912}
+{"id": "15950a46", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "}@<[", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 27949}
+{"id": "1f4c8169", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "051", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 20837}
+{"id": "b075e716", "type": "symbol", "correct": false, "predicted": "109", "gold": "2400", "finish_reason": "stop", "error": null, "content_len": 11, "thinking_len": 7494}
+{"id": "f642e7b5", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "-74", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 21855}
+{"id": "2cf042b9", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "?^", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 28129}
+{"id": "193c21d5", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "}>[[", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 30383}
+{"id": "9f9b0251", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "'!?/", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 28697}
+{"id": "dba045b0", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "`", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 29150}
+{"id": "b69d2e78", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "|)\\", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 24564}
+{"id": "2d7edafd", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": ":{&", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 26041}
+{"id": "9c91b226", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "03", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 26272}
+{"id": "37f04e3e", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "0092", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 19049}
+{"id": "49578b02", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "39", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 19265}
+{"id": "8d652f91", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "4", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 19830}
+{"id": "592107c3", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "/13", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 28100}
+{"id": "cd149ff8", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "921", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 16399}
+{"id": "af7ec090", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "'''^", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 30653}
+{"id": "f5126d48", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "${&@", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 30835}
+{"id": "4530aff6", "type": "symbol", "correct": true, "predicted": "111", "gold": "111", "finish_reason": "stop", "error": null, "content_len": 17, "thinking_len": 7198}
+{"id": "b3745e98", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "!'", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 29355}
+{"id": "d9a2b78f", "type": "symbol", "correct": false, "predicted": "100", "gold": "901", "finish_reason": "stop", "error": null, "content_len": 11, "thinking_len": 6090}
+{"id": "e5e29014", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "'%", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 27021}
+{"id": "fe6da79d", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": ":&]!", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 28512}
+{"id": "68903918", "type": "symbol", "correct": false, "predicted": "10", "gold": "4072", "finish_reason": "stop", "error": null, "content_len": 10, "thinking_len": 19395}
+{"id": "eeae398e", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "3770", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 19970}
+{"id": "df3262bc", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "]/", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 31180}
+{"id": "91b42a45", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "170", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 21894}
+{"id": "7d9ff0d2", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "(", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 29361}
+{"id": "845e726e", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "051", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 22691}
+{"id": "aa2e27a3", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "$(", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 29083}
+{"id": "95353c23", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "<)<|", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 26732}
+{"id": "2b3540d8", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "\":$\"", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 28990}
+{"id": "b989c740", "type": "symbol", "correct": true, "predicted": "8618", "gold": "8618", "finish_reason": "stop", "error": null, "content_len": 12, "thinking_len": 1795}
+{"id": "4d8f8111", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "7601", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 24287}
+{"id": "712fe3e4", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": ":#$#", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 30579}
+{"id": "536d9cca", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "&'", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 27017}
+{"id": "c76fc189", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "-(<", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 28994}
+{"id": "17c98340", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "731", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 21893}
+{"id": "083ed8fe", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "<#):", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 30111}
+{"id": "4c57a53f", "type": "symbol", "correct": false, "predicted": "04", "gold": "[4", "finish_reason": "stop", "error": null, "content_len": 10, "thinking_len": 18366}
+{"id": "ce9e73a0", "type": "unit_conv", "correct": true, "predicted": "72.32", "gold": "72.32", "finish_reason": "stop", "error": null, "content_len": 13, "thinking_len": 3251}
+{"id": "c7844441", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": ":/$^", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 30454}
+{"id": "4e7e64a2", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": "?&?%", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 24225}
+{"id": "1561edaf", "type": "unit_conv", "correct": false, "predicted": "NOT_FOUND", "gold": "78.05", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 13270}
+{"id": "eb27e9e9", "type": "unit_conv", "correct": false, "predicted": "NOT_FOUND", "gold": "78.72", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 16816}
+{"id": "1141c3ae", "type": "unit_conv", "correct": true, "predicted": "36.91", "gold": "36.90", "finish_reason": "stop", "error": null, "content_len": 258, "thinking_len": 6743}
+{"id": "092ce1c8", "type": "unit_conv", "correct": true, "predicted": "37.20", "gold": "37.20", "finish_reason": "stop", "error": null, "content_len": 225, "thinking_len": 4760}
+{"id": "4e694caf", "type": "unit_conv", "correct": true, "predicted": "47.04", "gold": "47.03", "finish_reason": "stop", "error": null, "content_len": 200, "thinking_len": 10081}
+{"id": "522c0009", "type": "unit_conv", "correct": true, "predicted": "13.25", "gold": "13.25", "finish_reason": "stop", "error": null, "content_len": 186, "thinking_len": 4589}
+{"id": "dc1e89c9", "type": "unit_conv", "correct": true, "predicted": "30.09", "gold": "30.08", "finish_reason": "stop", "error": null, "content_len": 13, "thinking_len": 3893}
+{"id": "02b8d816", "type": "symbol", "correct": false, "predicted": "NOT_FOUND", "gold": ">$$>", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 28425}
+{"id": "14570aeb", "type": "unit_conv", "correct": true, "predicted": "53.06", "gold": "53.05", "finish_reason": "stop", "error": null, "content_len": 304, "thinking_len": 11657}
+{"id": "af6ce080", "type": "unit_conv", "correct": true, "predicted": "70.73", "gold": "70.72", "finish_reason": "stop", "error": null, "content_len": 13, "thinking_len": 3812}
+{"id": "7086787e", "type": "unit_conv", "correct": false, "predicted": "NOT_FOUND", "gold": "37.20", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 14503}
+{"id": "9fc651a6", "type": "unit_conv", "correct": true, "predicted": "11.19", "gold": "11.19", "finish_reason": "stop", "error": null, "content_len": 231, "thinking_len": 6159}
+{"id": "eea9f770", "type": "unit_conv", "correct": true, "predicted": "28.26", "gold": "28.27", "finish_reason": "stop", "error": null, "content_len": 270, "thinking_len": 2335}
+{"id": "a7ea7c33", "type": "unit_conv", "correct": true, "predicted": "20.86", "gold": "20.86", "finish_reason": "stop", "error": null, "content_len": 13, "thinking_len": 14953}
+{"id": "5f18a37f", "type": "unit_conv", "correct": false, "predicted": "NOT_FOUND", "gold": "9.05", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 15100}
+{"id": "9bd287f6", "type": "unit_conv", "correct": true, "predicted": "15.11", "gold": "15.12", "finish_reason": "stop", "error": null, "content_len": 19, "thinking_len": 6002}
+{"id": "bb3bc7e7", "type": "unit_conv", "correct": true, "predicted": "42.01", "gold": "42.01", "finish_reason": "stop", "error": null, "content_len": 13, "thinking_len": 9477}
+{"id": "53c0218c", "type": "unit_conv", "correct": true, "predicted": "26.69", "gold": "26.69", "finish_reason": "stop", "error": null, "content_len": 13, "thinking_len": 7581}
+{"id": "4943b661", "type": "unit_conv", "correct": false, "predicted": "NOT_FOUND", "gold": "25.15", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 20512}
+{"id": "4009ae3e", "type": "unit_conv", "correct": true, "predicted": "14.68", "gold": "14.68", "finish_reason": "stop", "error": null, "content_len": 305, "thinking_len": 6490}
+{"id": "883a7f5d", "type": "unit_conv", "correct": false, "predicted": "NOT_FOUND", "gold": "19.15", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 14918}
+{"id": "2c037628", "type": "unit_conv", "correct": false, "predicted": "NOT_FOUND", "gold": "19.13", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 13266}
+{"id": "bd9acac4", "type": "unit_conv", "correct": false, "predicted": "NOT_FOUND", "gold": "39.57", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 13945}
+{"id": "1e30d2a0", "type": "unit_conv", "correct": true, "predicted": "11.12", "gold": "11.12", "finish_reason": "stop", "error": null, "content_len": 426, "thinking_len": 7806}
+{"id": "89a99760", "type": "unit_conv", "correct": true, "predicted": "19.07", "gold": "19.09", "finish_reason": "stop", "error": null, "content_len": 241, "thinking_len": 4914}
+{"id": "8fcd107e", "type": "unit_conv", "correct": true, "predicted": "16.22", "gold": "16.22", "finish_reason": "stop", "error": null, "content_len": 196, "thinking_len": 13784}
+{"id": "76de5b28", "type": "unit_conv", "correct": false, "predicted": "NOT_FOUND", "gold": "17.65", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 14407}
+{"id": "1c95d803", "type": "unit_conv", "correct": false, "predicted": "NOT_FOUND", "gold": "50.66", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 13783}
+{"id": "d527f819", "type": "unit_conv", "correct": true, "predicted": "28.19", "gold": "28.21", "finish_reason": "stop", "error": null, "content_len": 250, "thinking_len": 2485}
+{"id": "d8b9e109", "type": "unit_conv", "correct": false, "predicted": "NOT_FOUND", "gold": "81.05", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 13692}
+{"id": "8da9814c", "type": "unit_conv", "correct": false, "predicted": "NOT_FOUND", "gold": "16.86", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 15290}
+{"id": "12009c93", "type": "unit_conv", "correct": true, "predicted": "85.89", "gold": "85.89", "finish_reason": "stop", "error": null, "content_len": 332, "thinking_len": 8029}
+{"id": "9a291cc3", "type": "unit_conv", "correct": false, "predicted": "NOT_FOUND", "gold": "39.55", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 15398}
+{"id": "ef919762", "type": "unit_conv", "correct": false, "predicted": "NOT_FOUND", "gold": "16.26", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 14482}
+{"id": "ddb4bc42", "type": "unit_conv", "correct": false, "predicted": "NOT_FOUND", "gold": "32.01", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 14056}
+{"id": "1e818af1", "type": "unit_conv", "correct": true, "predicted": "21.78", "gold": "21.78", "finish_reason": "stop", "error": null, "content_len": 426, "thinking_len": 7228}
+{"id": "232f1f16", "type": "unit_conv", "correct": true, "predicted": "69.12", "gold": "69.12", "finish_reason": "stop", "error": null, "content_len": 137, "thinking_len": 1080}
+{"id": "0fd8b43e", "type": "unit_conv", "correct": false, "predicted": "NOT_FOUND", "gold": "30.22", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 14366}
+{"id": "d784ec07", "type": "unit_conv", "correct": false, "predicted": "NOT_FOUND", "gold": "42.05", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 15253}
+{"id": "ef7dec9c", "type": "unit_conv", "correct": true, "predicted": "20.39", "gold": "20.39", "finish_reason": "stop", "error": null, "content_len": 347, "thinking_len": 3341}
+{"id": "40efd15f", "type": "unit_conv", "correct": true, "predicted": "6.37", "gold": "6.37", "finish_reason": "stop", "error": null, "content_len": 12, "thinking_len": 4359}
+{"id": "861a8c1d", "type": "unit_conv", "correct": false, "predicted": "NOT_FOUND", "gold": "82.63", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 15243}
+{"id": "9498b010", "type": "unit_conv", "correct": true, "predicted": "38.02", "gold": "38.02", "finish_reason": "stop", "error": null, "content_len": 13, "thinking_len": 5007}
+{"id": "3dce464f", "type": "unit_conv", "correct": true, "predicted": "37.35", "gold": "37.36", "finish_reason": "stop", "error": null, "content_len": 239, "thinking_len": 4470}
+{"id": "99561676", "type": "unit_conv", "correct": true, "predicted": "16.81", "gold": "16.81", "finish_reason": "stop", "error": null, "content_len": 13, "thinking_len": 4931}
+{"id": "7303583b", "type": "unit_conv", "correct": false, "predicted": "NOT_FOUND", "gold": "17.70", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 14400}
+{"id": "ae554b7f", "type": "unit_conv", "correct": true, "predicted": "13.87", "gold": "13.87", "finish_reason": "stop", "error": null, "content_len": 293, "thinking_len": 9868}
+{"id": "54a33e96", "type": "unit_conv", "correct": false, "predicted": "NOT_FOUND", "gold": "26.87", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 16045}
+{"id": "2ec73c8f", "type": "unit_conv", "correct": false, "predicted": "NOT_FOUND", "gold": "54.69", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 18078}
+{"id": "8ce54da2", "type": "unit_conv", "correct": false, "predicted": "NOT_FOUND", "gold": "6.95", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 18218}
+T_FOUND", "gold": "54.69", "finish_reason": "length", "error": null, "content_len": 0, "thinking_len": 13426}
