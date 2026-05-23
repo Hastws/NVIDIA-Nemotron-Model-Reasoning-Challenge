@@ -1,0 +1,11 @@
+# 这些包是自定义 CUDA 编译版，PyPI 没有完全相同的包，需要从 Kaggle 数据集手动复制
+
+causal_conv1d-1.6.1+cu12torch2.10cxx11abiTRUE-cp312-cp312-linux_x86_64.whl
+  来源目录: kaggle_input/mayukh18/nemotron-packages
+
+flash_attn-2.8.3+cu12torch2.10cxx11abiTRUE-cp312-cp312-linux_x86_64.whl
+  来源目录: kaggle_input/dennisfong/nvidia-nemotron-offline-packages
+
+mamba_ssm-2.3.1+cu12torch2.10cxx11abiTRUE-cp312-cp312-linux_x86_64.whl
+  来源目录: kaggle_input/mayukh18/nemotron-packages
+
