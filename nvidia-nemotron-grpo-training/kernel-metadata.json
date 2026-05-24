@@ -16,7 +16,10 @@
     "mayukh18/nemotron-packages",
     "konbu17/nemotron-sft-lora-cot-selection",
     "dennisfong/nvidia-nemotron-offline-packages",
-    "rubyducklove/nvidia-cutlass"
+    "rubyducklove/nvidia-cutlass",
+    "hastws/nemotron-peft",
+    "hastws/nemotron-tf55",
+    "hastws/nemotron-v6-adapter"
   ],
   "kernel_sources": [
     "dennisfong/nvidia-nemotron-sfttrainer-training"
@@ -25,8 +28,7 @@
     "nvidia-nemotron-model-reasoning-challenge"
   ],
   "model_sources": [
-    "metric/nemotron-3-nano-30b-a3b-bf16/Transformers/default/1",
-    "huikang/nemotron-adapter/Transformers/default/20"
+    "metric/nemotron-3-nano-30b-a3b-bf16/Transformers/default/1"
   ],
   "docker_image": "gcr.io/kaggle-private-byod/python@sha256:00377cd1b3d470a605bc5b0ceca79969e369644e9b36802242a1c70e627372f9",
   "machine_shape": "NvidiaRtxPro6000"
