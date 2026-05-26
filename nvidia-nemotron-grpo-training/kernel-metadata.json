@@ -22,7 +22,8 @@
     "hastws/nemotron-v6-adapter"
   ],
   "kernel_sources": [
-    "dennisfong/nvidia-nemotron-sfttrainer-training"
+    "dennisfong/nvidia-nemotron-sfttrainer-training",
+    "hastws/training-with-unsloth-no-lm-head-v2"
   ],
   "competition_sources": [
     "nvidia-nemotron-model-reasoning-challenge"
